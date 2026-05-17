@@ -1,0 +1,50 @@
+{
+  "previa": "Minha flor, tá querendo atrair aquele amor de jeito? Tenho uma simpatia poderosa que vai dar aquela forcinha. Se liga nos materiais e no passo a passo pra conquistar de vez!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Nanda, sei que você tá buscando aquele amor especial. Não é fácil, mas com uma ajudinha certa, tudo fica mais leve. Vamos trazer essa paixão pra sua vida!",
+  "materiais": [
+    {
+      "nome": "Vela rosa",
+      "descricao": "Para atrair amor e carinho"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Para escrever seu desejo"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para dar força ao seu pedido"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para intensificar a atração"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo e tranquilo, onde ninguém te incomode",
+    "Acende a vela rosa e diz: 'Atraio o amor que desejo para mim'",
+    "No papel rosa, escreve o tipo de amor que quer atrair",
+    "Coloca as pétalas de rosa ao redor da vela e do papel",
+    "Lê a declaração em voz alta com confiança e certeza",
+    "Guarda o papel embaixo do colchão por 7 dias"
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, perfeito para amor e atração",
+  "lua": "Crescente",
+  "lua_desc": "ótima para atrair e aumentar sentimentos",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu atraio o amor verdadeiro para mim\n\nEu decreto que a paixão preencha meu coração\n\nEu chamo a felicidade amorosa para minha vida\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Usa um perfume que te faça sentir confiante quando fizer a simpatia",
+    "Se puder, coloca uma música romântica de fundo",
+    "Visualiza o tipo de amor que quer, quanto mais detalhes, melhor!"
+  ],
+  "frase_final": "O verdadeiro amor tá a caminho, confie nessa força!",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Nanda, essa simpatia é poderosa pra atrair amor! Pra potencializar ainda mais, te indico um Mapa do Amor por só R$ 9,98 que vai te ajudar a entender e atrair o parceiro ideal. Interessada? 💖",
+  "nome": "Nanda Costa",
+  "primeiroNome": "Nanda"
+}
