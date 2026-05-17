@@ -1,0 +1,54 @@
+{
+  "previa": "Jeane, tá querendo dar uma limpada na energia ao seu redor? Tenho uma simpatia poderosa de limpeza espiritual que vai te ajudar a purificar seu espaço e trazer leveza pra sua vida.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Jeane, minha flor, eu sei como às vezes a gente sente o peso de tudo ao redor. Vamos dar uma limpada nas energias e deixar tudo mais leve, tá? Essa simpatia vai te ajudar a mandar embora o que não tá te fazendo bem.",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Representa pureza e limpeza"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Pra escrever o que precisa ir embora"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Pra dar clareza e verdade nas palavras"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Elemento de purificação"
+    },
+    {
+      "nome": "Um copo com água",
+      "descricao": "Água corrente pra levar as coisas ruins"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar tranquilo na sua casa, onde você não será interrompida.",
+    "Acende a vela branca e se concentra na chama, pedindo por limpeza.",
+    "Escreve no papel tudo que você sente que tá te pesando.",
+    "Coloca o sal grosso em volta da vela, formando um círculo.",
+    "Lê em voz alta a declaração que está no papel.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "dia de Saturno, ideal para cortes e limpezas",
+  "lua": "Minguante",
+  "lua_desc": "período perfeito para cortar e mandar embora",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu limpo e purifico meu espaço e minha energia.\n\nEu deixo ir tudo que não me serve mais.\n\nEu abro espaço para boas energias e leveza.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso)",
+  "dicas": [
+    "Depois de fazer a simpatia, abre as janelas pra renovar o ar.",
+    "Tome um banho relaxante com sal grosso, se possível.",
+    "Evite discussões e ambientes pesados nos dias seguintes."
+  ],
+  "frase_final": "Limpa as energias pra viver com mais leveza e paz.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Jeane, essa simpatia vai te trazer leveza 🕯️ Pra reforçar, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Quer experimentar? 💜",
+  "nome": "Jeane costa pamplona",
+  "primeiroNome": "Jeane"
+}
