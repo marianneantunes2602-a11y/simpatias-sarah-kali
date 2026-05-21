@@ -1,0 +1,50 @@
+{
+  "previa": "Sente-se apagada, sem luz? Vamos acender essa chama de magnetismo com uma simpatia poderosa. Você vai precisar de uma vela e outros itens simples que vão te ajudar a brilhar intensamente de novo.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Atração",
+  "saudacao": "Vera Lucia, eu sei como é pesado se sentir sem luz, apagada. Vamos cuidar dessa energia e trazer de volta teu magnetismo. Com essa simpatia, você vai brilhar intensamente e atrair tudo de bom para a sua vida.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Rosa"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha"
+    },
+    {
+      "nome": "Elementos Naturais",
+      "descricao": "Pétalas de rosa"
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar tranquilo e sem interrupções.",
+    "Acenda a vela vermelha e diga: 'Eu acendo a luz dentro de mim.'",
+    "Escreva no papel rosa: 'Eu sou luz e atraio tudo de bom.'",
+    "Coloque as pétalas de rosa ao redor da vela.",
+    "Com firmeza, leia a declaração em voz alta.",
+    "Guarde o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para elevar a atração",
+  "lua": "Crescente",
+  "lua_desc": "momento de crescimento e expansão",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu me encho de luz e encanto\n\nEu atraio para mim tudo que é positivo\n\nMinha energia é forte e radiante\n\nEu sou cheia de magnetismo e amor\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Antes de fazer, tome um banho relaxante para limpar a mente.",
+    "Escute uma música que te faça sentir poderosa enquanto faz a simpatia.",
+    "Faça um chá de camomila para acalmar e preparar o espírito."
+  ],
+  "frase_final": "Acenda sua luz e atraia magnetismo positivo para sua vida.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Vera, essa simpatia vai acender sua luz 🌟 Pra potencializar ainda mais, recomendo um Banho Energético por só R$ 9,98 que limpa e prepara você antes da simpatia. Topa? 💖",
+  "nome": "Vera Lucia de Lima",
+  "primeiroNome": "Vera"
+}
