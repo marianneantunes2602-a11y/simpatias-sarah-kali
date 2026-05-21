@@ -1,0 +1,50 @@
+{
+  "previa": "Jeruza, se as coisas estão apertadas no bolso, é hora de mudar isso. Vamos trazer energia boa pra atrair um dinheirinho extra e aliviar essa tensão. Essa simpatia é simples e poderosa, e você vai sentir a diferença. Bora fazer?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Jeruza, sei que a situação financeira tá difícil. Com essa simpatia, vamos abrir caminhos para a prosperidade fluir na sua vida. Confia e faz com fé.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Simboliza prosperidade e riqueza"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Para escrever a intenção"
+    },
+    {
+      "nome": "Caneta verde",
+      "descricao": "Cor da abundância"
+    },
+    {
+      "nome": "Pétalas de manjericão",
+      "descricao": "Atraem sorte e dinheiro"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo e faz silêncio.",
+    "Acende a vela amarela e diz: 'Luz que ilumina a prosperidade'.",
+    "Escreve no papel: 'Eu, Jeruza, atraio dinheiro e prosperidade'.",
+    "Coloca as pétalas de manjericão sobre o papel.",
+    "Lê a declaração em voz alta com confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ideal para atrair prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Aumenta energia de atração e crescimento",
+  "horario": "Manhã",
+  "horario_desc": "Entre 8h e 10h, quando o dia tá começando",
+  "declaracao": "Eu, Jeruza, atraio dinheiro e prosperidade pra minha vida.\n\nA energia do universo conspira ao meu favor.\n\nMeus caminhos estão abertos para a abundância.\n\nRecebo com gratidão e alegria cada oportunidade.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que gastar dinheiro, agradeça pela possibilidade.",
+    "Limpe sua carteira, tirando papéis e recibos antigos.",
+    "Anote seus gastos e ganhos pra ter controle e atrair mais."
+  ],
+  "frase_final": "Atraia a prosperidade e deixe o dinheiro fluir.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Jeruza, essa simpatia vai abrir os caminhos 🕯️ Pra fortalecer ainda mais, te ofereço um Banho Energético por só R$ 9,98. Ele prepara teu campo antes da simpatia. Você quer? 💚",
+  "nome": "Jeruza Bulegon",
+  "primeiroNome": "Jeruza"
+}
