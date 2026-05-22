@@ -1,0 +1,50 @@
+{
+  "previa": "Agatha, sinto que seus caminhos estão trancados e a grana não fica. Vamos abrir essas portas e deixar a prosperidade entrar na sua vida de vez. Com essa simpatia, tudo pode mudar.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Agatha, minha flor, eu sei que tá difícil segurar o dinheiro e tudo parece desandar. Vamos dar um jeito de abrir seus caminhos profissionais e atrair a prosperidade que você merece.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Símbolo da prosperidade e energia positiva"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Para escrever sua intenção"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Representa riqueza e sucesso"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para purificar e abrir caminhos"
+    }
+  ],
+  "preparo": [
+    "Encontre um local tranquilo, desligue o som e minimize distrações.",
+    "Acenda a vela amarela e concentre-se na chama, visualizando seus caminhos abrindo.",
+    "No papel amarelo, escreva: 'Meus caminhos se abrem para o sucesso e a riqueza'.",
+    "Coloque o papel embaixo da vela e polvilhe com um pouco de sal grosso.",
+    "Fale a declaração em voz alta com confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "um dia com a força de Júpiter para atrair prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "perfeita para atrair e potencializar novas oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia começa a ganhar vida e energia",
+  "declaracao": "Eu chamo a prosperidade e a organização financeira para minha vida.\n\nMeus caminhos se abrem e o sucesso me encontra a cada dia.\n\nEu sou capaz de guardar e multiplicar meu dinheiro.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Tente anotar seus gastos por uma semana para entender melhor suas finanças.",
+    "Revise seus planos profissionais e veja onde pode ajustar para melhor.",
+    "Busque pequenas oportunidades extras de renda para aliviar o aperto."
+  ],
+  "frase_final": "A prosperidade está ao seu alcance, basta abrir o caminho.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Agatha, essa simpatia vai abrir seus caminhos! 📈 Pra potencializar, que tal um Mapa Anual por R$ 9,98? Ele pode mostrar as melhores oportunidades do ano pra você. Quer saber mais? 🌟",
+  "nome": "Agatha Pereira do Carmo",
+  "primeiroNome": "Agatha"
+}
