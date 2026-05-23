@@ -1,0 +1,50 @@
+{
+  "previa": "Elisabete, tá difícil ver o dinheiro ficar, né? Vamos abrir esses caminhos e afastar essa maré ruim com uma simpatia de prosperidade poderosa!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Elisabete! Vê só, a situação tá complicada, dinheiro entrando e saindo, e ainda esses acidentes com a camionete do seu marido. Vamos trabalhar pra abrir os caminhos e afastar essa energia ruim, minha flor.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e a energia do Sol"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Onde você vai escrever suas intenções"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever os desejos de prosperidade"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Erva que traz sorte e afastamento de más energias"
+    }
+  ],
+  "preparo": [
+    "Ache um lugar tranquilo na sua casa, onde você se sinta à vontade.",
+    "Acende a vela amarela e mentaliza seus caminhos se abrindo.",
+    "Escreve no papel amarelo: 'Prosperidade e sorte chegam para mim e meu marido.'",
+    "Coloca o papel sob a vela, junto com um punhado de alecrim.",
+    "Em voz alta, lê a declaração de prosperidade com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, dia de expansão e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e aumentar a prosperidade",
+  "horario": "Manhã",
+  "horario_desc": "Início do dia, momento de energias renovadas",
+  "declaracao": "Eu atraio a prosperidade e a sorte para mim e para o meu marido.\n\nOs caminhos se abrem, e a abundância entra pela nossa porta.\n\nA energia negativa se dissolve, os acidentes ficam para trás.\n\nEu recebo agora o que é meu por direito.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Elisabete, sempre que acender a vela, pense em coisas boas.",
+    "Evita comentar sobre os problemas financeiros para não atrair mais preocupação.",
+    "Procura conversar com o seu marido sobre os acidentes e como evitar repetição."
+  ],
+  "frase_final": "A prosperidade vem quando você menos espera.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Elisabete, essa simpatia vai abrir seus caminhos. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que limpa a energia e atrai sorte. Vai? 💜",
+  "nome": "Elisabete Ribeiro",
+  "primeiroNome": "Elisabete"
+}
