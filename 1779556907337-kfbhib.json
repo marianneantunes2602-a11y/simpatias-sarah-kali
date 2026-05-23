@@ -1,0 +1,50 @@
+{
+  "previa": "Lizandra, tá difícil lidar com a situação do seu irmão escondendo o objeto do seu pai, né? Vamos resolver isso com uma simpatia poderosa para trazer a verdade à tona.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Coragem",
+  "saudacao": "Oi, Lizandra! Sei que seu irmão tá fazendo jogo com o objeto do seu pai. Vamos dar uma força pra verdade aparecer e ele falar onde tá. Isso vai ajudar muito você e sua mãe, minha flor.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Para coragem e verdade"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever as palavras certas"
+    },
+    {
+      "nome": "Caneta preta",
+      "descricao": "Para clareza nas intenções"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para purificar a situação"
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar tranquilo e apague as luzes.",
+    "Acenda a vela vermelha e pense no seu irmão falando a verdade.",
+    "Escreva no papel: 'Meu irmão fala onde está o objeto do meu pai.'",
+    "Coloque um pouco de sal grosso ao redor da vela.",
+    "Leia a declaração em voz alta com força e determinação.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Terça",
+  "dia_desc": "dia de Marte, ideal para ação e coragem",
+  "lua": "Crescente",
+  "lua_desc": "para atrair a verdade",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo a verdade que está escondida.\n\nMeu irmão, você fala onde está o objeto do nosso pai.\n\nA coragem vem e a verdade aparece agora.\n\nNinguém esconde mais nada de mim.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Converse com seu irmão em momentos calmos, ele pode se abrir.",
+    "Mostre pra ele a importância do objeto pro coração da família.",
+    "Reforce que a verdade é mais importante que brigas."
+  ],
+  "frase_final": "A verdade sempre aparece, tenha fé nisso.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Lizandra, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Lizandra aparecida ferreira",
+  "primeiroNome": "Lizandra"
+}
