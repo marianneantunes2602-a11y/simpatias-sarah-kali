@@ -1,0 +1,54 @@
+{
+  "previa": "Anelise, tá querendo dar aquele empurrãozinho pra sua ficante se apaixonar mais por você e ainda afastar a Yasodhara, né? Tenho uma simpatia poderosa que pode te ajudar nisso!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Anelise! Eu sei que você tá doida pra que sua ficante te peça em namoro e que a Yasodhara se afaste de vez. Vamos dar um jeitinho nisso com uma simpatia bem forte!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha, simbolizando o amor"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa, representa romance"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha, pra potencializar a paixão"
+    },
+    {
+      "nome": "Mel",
+      "descricao": "Para adoçar o coração dela"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para fortalecer o amor"
+    }
+  ],
+  "preparo": [
+    "Procure um cantinho tranquilo da sua casa, onde você não seja interrompida.",
+    "Acenda a vela vermelha, focando na chama e no desejo de amor.",
+    "Escreva no papel rosa o nome da sua ficante e o seu.",
+    "Coloque um pouco de mel sobre o nome dela e espalhe algumas pétalas de rosa.",
+    "Leia a declaração em voz alta, sentindo cada palavra no coração.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, propício para o amor",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e fortalecer sentimentos",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o coração da minha ficante pra perto de mim.\n\nQue a paixão cresça e o amor floresça entre nós.\n\nEu adoço a relação e afasto a Yasodhara de nossos caminhos.\n\nQue o sentimento dela seja doce como o mel que aqui coloco.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Use um perfume que ela goste quando for encontrar com ela.",
+    "Evite encontros com outras pessoas enquanto faz a simpatia.",
+    "Mantenha pensamentos positivos e amorosos."
+  ],
+  "frase_final": "Deixe o amor crescer com essa simpatia poderosa!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Anelise, essa simpatia vai ajudar no amor! Pra potencializar, te ofereço um Banho Energético por R$ 9,98 que prepara seu campo antes do ritual. Vai? 💜",
+  "nome": "Anelise Silva da rosa",
+  "primeiroNome": "Anelise"
+}
