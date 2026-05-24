@@ -1,0 +1,50 @@
+{
+  "previa": "Quer melhorar a vida financeira e atrair sorte no amor? Vou te ensinar uma simpatia de prosperidade que vai abrir os caminhos e trazer tudo isso pra você. Vamos usar velas, papel e uma declaração poderosa. Bora mudar essa maré!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Valeria! Sei que você tá querendo atrair mais prosperidade na sua vida financeira e também dar uma forcinha no amor, certo? Essa simpatia aqui é pra abrir os seus caminhos e trazer tudo o que você merece. Vamos juntas nessa!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e abertura de caminhos."
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Escreveremos nossos desejos nele."
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Para atrair riqueza e sorte."
+    },
+    {
+      "nome": "Punhado de sal grosso",
+      "descricao": "Para limpar e proteger."
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo, apague as luzes para criar um clima de concentração.",
+    "Acenda a vela amarela e diga: 'A luz desta vela atrai prosperidade para mim.'",
+    "Escreva no papel amarelo seus desejos de prosperidade financeira e amorosa.",
+    "Coloque o papel perto da vela e polvilhe um pouco de sal grosso ao redor.",
+    "Leia em voz alta a declaração poderosa que vou te passar.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira é o dia ideal para rituais de prosperidade e expansão.",
+  "lua": "Crescente",
+  "lua_desc": "A lua crescente é perfeita para atrair e potencializar seus desejos.",
+  "horario": "Manhã",
+  "horario_desc": "de manhã, quando o dia tá começando e as energias estão renovadas",
+  "declaracao": "Eu decreto que a prosperidade vem para a minha vida agora.\n\nAtraio sorte e abundância financeira com facilidade.\n\nO amor e a riqueza caminham lado a lado em meu destino.\n\nEu sou merecedora de tudo o que é bom e próspero.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que abrir a carteira, mentalize seus desejos de prosperidade.",
+    "Se sentirem os caminhos travados, acenda outra vela amarela.",
+    "Pratique a gratidão diária por tudo que já tem para atrair mais."
+  ],
+  "frase_final": "A prosperidade te encontra e faz morada na sua vida.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Valeria, essa simpatia vai te ajudar muito. Para reforçar ainda mais no amor, te indico o Mapa do Amor por só R$ 9,98. Assim, você pode entender melhor suas afinidades e atrair mais sorte. Vamos nessa? 💌",
+  "nome": "Valeria dos Santos da Silva",
+  "primeiroNome": "Valeria"
+}
