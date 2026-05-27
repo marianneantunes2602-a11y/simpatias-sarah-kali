@@ -1,0 +1,50 @@
+{
+  "previa": "Michelle, tá difícil, né? As brigas tão pesadas e a energia tá carregada. Vamos mudar isso com uma simpatia de descarrego poderosa. Bora tirar essa carga ruim de cima de você e abrir caminho pra paz voltar?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Michelle. Eu sei que essa situação com o Deivide tá te consumindo. A energia tá densa e as brigas são constantes. Vamos descarregar tudo isso de vez e trazer a calma de volta ao seu coração.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Branca, para limpeza."
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Branco, para anotar."
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Azul, para escrever."
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Punhado, para purificar."
+    }
+  ],
+  "preparo": [
+    "Acha um lugar calmo e silencioso na sua casa.",
+    "Acende a vela branca e pede proteção e limpeza.",
+    "Escreve no papel: 'Eu, Michelle, me liberto de toda negatividade.'",
+    "Coloca o papel embaixo da vela e espalha sal grosso ao redor.",
+    "Lê a declaração em voz alta, com firmeza e fé.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, perfeito para cortes e limpezas.",
+  "lua": "Minguante",
+  "lua_desc": "Ideal para cortar o que não serve mais.",
+  "horario": "Noite",
+  "horario_desc": "Depois das 20h, quando tudo acalma.",
+  "declaracao": "Eu, Michelle, rompo e descarrego toda a negatividade que me cerca.\n\nNada nem ninguém tem poder sobre mim.\n\nEu me liberto das brigas e das energias ruins que nos afastaram, Deivide.\n\nA paz e a harmonia retornam para minha vida agora.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso).",
+  "dicas": [
+    "Evita contato com pessoas negativas por uns dias.",
+    "Usa uma roupa branca depois da simpatia pra atrair paz.",
+    "Toma um banho de sal grosso pra potencializar a limpeza."
+  ],
+  "frase_final": "Libera o que pesa e abre espaço pra paz reinar.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Michelle, essa simpatia é forte 🕯️ Pra se fortalecer ainda mais, te recomendo um Banho Energético por só R$ 9,98. Ele te ajuda a começar a simpatia com a energia limpinha. Que tal? 💜",
+  "nome": "Michelle Lorrane Malaquias dos Santos",
+  "primeiroNome": "Michelle"
+}
