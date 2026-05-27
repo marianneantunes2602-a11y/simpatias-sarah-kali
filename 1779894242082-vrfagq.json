@@ -1,0 +1,50 @@
+{
+  "previa": "Oi, Marcos! Se você tá buscando abrir os caminhos e tirar os obstáculos da frente, vem comigo. Vamos preparar uma simpatia poderosa pra trazer prosperidade e oportunidades pra sua vida!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Marcos! Tô sentindo que você tá precisando dar uma guinada na sua vida e abrir esses caminhos. Vamos fazer essa simpatia pra trazer oportunidades e prosperidade pra você. Confia!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e a abertura de caminhos"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Serve pra escrever suas intenções de prosperidade"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Pra você anotar seus desejos no papel"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Erva que atrai boas energias e prosperidade"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo e silencioso, onde você possa se concentrar.",
+    "Acende a vela amarela, pensando nos caminhos se abrindo pra você.",
+    "Escreve no papel amarelo: 'Eu, Marcos, abro meus caminhos para a prosperidade.'",
+    "Coloca o alecrim sobre o papel, sentindo a energia positiva.",
+    "Lê a declaração em voz alta, com firmeza e fé.",
+    "Carrega o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal pra prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "quando tudo cresce e floresce, atraindo novas oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol tá nascendo, trazendo novas energias",
+  "declaracao": "Eu, Marcos, abro meus caminhos para a prosperidade.\n\nEu atraio oportunidades boas e favoráveis pra minha vida.\n\nMinha vida se enche de abundância e sucesso.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Marcos, tenta fazer essa simpatia em um dia que você se sinta bem disposto.",
+    "Se puder, mantenha a vela acesa até o finalzinho, pra potencializar a energia.",
+    "Sempre que olhar pra carteira, lembra da energia de prosperidade que você tá atraindo."
+  ],
+  "frase_final": "Abertura e prosperidade vão chegar na sua vida, Marcos!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Marcos, essa simpatia é poderosa! Pra firmar ainda mais, te indico um Mapa Anual por só R$ 9,98 que te mostra as melhores oportunidades do ano. Vai?",
+  "nome": "Marcos Wilson de Souza",
+  "primeiroNome": "Marcos"
+}
