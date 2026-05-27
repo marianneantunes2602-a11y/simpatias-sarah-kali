@@ -1,0 +1,50 @@
+{
+  "previa": "Pamela, sei que tá difícil focar nos seus negócios e estudos. Vamos mudar isso com uma simpatia poderosa pra te dar ânimo, coragem e foco.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Coragem",
+  "saudacao": "Pamela, eu entendo como é essa falta de foco que tá te deixando pra baixo. Mas olha só, vamos dar a volta por cima com uma simpatia pra te trazer ânimo, coragem e disposição!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha, pra força e coragem"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Branco, simples"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Pra dar energia"
+    }
+  ],
+  "preparo": [
+    "Procura um cantinho sossegado e escuro, onde você possa se concentrar",
+    "Acende a vela vermelha e fala: 'Coragem e foco, eu chamo vocês!'",
+    "Escreve no papel: 'Eu tenho foco, ânimo e coragem!'",
+    "Coloca o alecrim sobre o papel",
+    "Repete em voz alta a declaração de foco e força",
+    "Guarda o papel embaixo do colchão por 7 dias"
+  ],
+  "dia": "Terça",
+  "dia_desc": "dia de Marte, pra ação e coragem",
+  "lua": "Nova",
+  "lua_desc": "pra começar algo novo e poderoso",
+  "horario": "Manhã",
+  "horario_desc": "ao acordar, quando o dia começa",
+  "declaracao": "Eu chamo a força do universo para me dar foco e coragem \n\nEu decreto que meu ânimo e disposição aumentam a cada dia \n\nMinhas metas estão claras e eu alcanço todas com sucesso \n\nNada pode me parar, eu tenho poder \n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Tenta levantar um pouquinho mais cedo pra ajustar seu dia",
+    "Lembra de dar uma caminhada ao ar livre pra renovar as energias",
+    "Antes de dormir, revisa mentalmente suas metas do dia seguinte"
+  ],
+  "frase_final": "Foco e coragem estão com você, Pamela.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Pamela, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Pamela kethelyn Conceição valejo",
+  "primeiroNome": "Pamela"
+}
