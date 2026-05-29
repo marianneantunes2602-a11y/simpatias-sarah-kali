@@ -1,0 +1,50 @@
+{
+  "previa": "Quer vender aquele apartamento na planta, Tatiana? Vem cá, vamos fazer uma simpatia poderosa pra você atrair compradores e fechar negócio rapidinho. Prepara o coração e vamos lá!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Tatiana, minha flor, sei que a situação tá apertada e você precisa daquela venda de apartamento pra respirar melhor. Vamos fazer essa simpatia juntas pra trazer a prosperidade que você tanto merece. Confia em mim!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Símbolo de prosperidade e sucesso."
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Representa riqueza e abertura de caminhos."
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Cor da comunicação e clareza."
+    },
+    {
+      "nome": "Punhado de sal grosso",
+      "descricao": "Limpa as energias negativas no caminho."
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar calmo, onde ninguém te incomode.",
+    "Acenda a vela amarela e diga: 'Que a luz da prosperidade brilhe aqui.'",
+    "Escreva no papel dourado: 'Eu, Tatiana, vendo um apartamento na planta agora.'",
+    "Coloque o sal grosso ao lado da vela como proteção.",
+    "Leia em voz alta a declaração com toda a sua força.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, dia da prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair vendas e expandir oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "Entre 6h e 9h, quando tudo começa a despertar",
+  "declaracao": "Eu chamo a prosperidade agora.\n\nEu declaro que vendo um apartamento imediatamente.\n\nQue o sucesso venha até mim, sem obstáculos.\n\nQue a energia da venda flua com abundância.\n\nEu, Tatiana, sou uma vendedora de sucesso.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que falar com um cliente, lembre-se da afirmação do papel.",
+    "Coloque uma foto do apartamento como fundo de tela do celular para atrair.",
+    "Antes de dormir, visualize a venda acontecendo com detalhes."
+  ],
+  "frase_final": "A prosperidade já está no seu caminho, Tatiana.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Tatiana, essa simpatia é poderosa! Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💛",
+  "nome": "Tatiana Regina Padilha",
+  "primeiroNome": "Tatiana"
+}
