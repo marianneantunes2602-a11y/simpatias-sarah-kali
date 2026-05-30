@@ -1,0 +1,50 @@
+{
+  "previa": "Tá difícil segurar o coração, não é, Valquíria? Vamos dar uma ajudinha mística pra atrair ele de volta e clarear esse caminho. Essa simpatia é certeira pra trazer a pessoa que você tanto quer.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Valquíria! Sei que tá complicado com essa distância, ainda mais sabendo que ele tá envolvido com outra. Vamos fazer uma simpatia poderosa pra atrair ele de volta pra você.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela vermelha"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Algumas pétalas para o ritual"
+    }
+  ],
+  "preparo": [
+    "Acha um cantinho tranquilo e sem barulho.",
+    "Acende a vela vermelha e pensa nele com carinho.",
+    "Escreve no papel rosa o nome dele três vezes.",
+    "Coloca as pétalas de rosa em volta da vela.",
+    "Lê a declaração em voz alta, com firmeza.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para o amor",
+  "lua": "Crescente",
+  "lua_desc": "quando a energia cresce e atrai",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo pelo teu coração, [nome dele], para voltar pra mim.\n\nEu decreto que o amor verdadeiro prevaleça.\n\nEu quebro as barreiras e atraio a tua presença.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Quando pensar nele, mentaliza momentos bons que passaram juntos.",
+    "Ao acordar, repete o nome dele três vezes em voz alta.",
+    "Troca as pétalas de rosa toda sexta-feira, se puder."
+  ],
+  "frase_final": "Atrai o amor e abre os caminhos com essa simpatia.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Valquíria, com essa simpatia poderosa, você já está no caminho certo. Pra potencializar ainda mais, indico um Banho Energético por só R$ 9,98, que ajuda a abrir os caminhos pro amor. Vai? ❤️",
+  "nome": "Valquíria Silva Motta",
+  "primeiroNome": "Valquíria"
+}
