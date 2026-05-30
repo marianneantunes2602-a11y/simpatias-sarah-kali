@@ -1,0 +1,50 @@
+{
+  "previa": "Quer abrir os caminhos e atrair amor de vez, Leiliane? Tenho uma simpatia poderosa pra você! Simples, direta e cheia de energia boa. Vamos colocar essa intenção em prática e mudar o jogo do coração. Faça já e veja a diferença!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Leiliane, minha flor, sei que você tá querendo abrir os caminhos e atrair o amor. As vezes parece que tudo tá parado, né? Mas com essa simpatia, vamos dar aquele empurrãozinho! Confia e vamos juntas!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela rosa"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha"
+    },
+    {
+      "nome": "Elemento natural",
+      "descricao": "Pétalas de rosa"
+    }
+  ],
+  "preparo": [
+    "Ache um cantinho tranquilo, sem ninguém te perturbar.",
+    "Acende a vela rosa e pensa no amor que deseja.",
+    "Escreve no papel rosa: 'Eu, Leiliane, abro os caminhos para o amor.'",
+    "Coloca as pétalas de rosa ao lado da vela.",
+    "Lê a declaração em voz alta, sentindo cada palavra.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia regido por Vênus, perfeito pro amor",
+  "lua": "Crescente",
+  "lua_desc": "quando tudo começa a crescer, inclusive o amor",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu, Leiliane, decreto que meus caminhos estão abertos para o amor verdadeiro.\n\nEu atraio a energia do amor sincero e recíproco.\n\nMeus caminhos estão livres de obstáculos e o amor chega até mim facilmente.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Inclui músicas de amor no teu dia, Leiliane, pra sintonizar.",
+    "Faz essa simpatia sexta-feira, que é dia de Vênus, amiga!",
+    "Usa perfume doce nessa fase, atrai boas energias."
+  ],
+  "frase_final": "O amor tá batendo na porta, deixa ele entrar!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Leiliane, essa simpatia é poderosa! Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Leiliane Moreira da Silva",
+  "primeiroNome": "Leiliane"
+}
