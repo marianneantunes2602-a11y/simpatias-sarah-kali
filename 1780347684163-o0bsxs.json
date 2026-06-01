@@ -1,0 +1,54 @@
+{
+  "previa": "Kenia, tá difícil lidar com as contas, eu sei. Vamos abrir caminhos financeiros com uma simpatia poderosa que vai ajudar a trazer oportunidades e leveza pra sua vida.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Kenia, sei que a situação tá apertada, dívida e falta de emprego deixam a gente pra baixo. Vamos trabalhar juntas pra abrir os caminhos da prosperidade e atrair novas oportunidades pra sua vida. Tenho uma simpatia que pode dar aquela força que você precisa.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela ou dourada"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado"
+    },
+    {
+      "nome": "Pétalas de girassol",
+      "descricao": "Algumas pétalas"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar calmo e silencioso em casa.",
+    "Acenda a vela amarela, pensando na prosperidade chegando.",
+    "Escreva seu nome no papel acompanhado da palavra 'prosperidade'.",
+    "Coloque o papel sob a vela e espalhe as pétalas em volta.",
+    "Leia a declaração em voz alta com fé e força.",
+    "Carrega o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "quinto dia da semana, ligado a Júpiter e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "a lua crescente ajuda a atrair novas oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "início do dia, para dar energia e renovação",
+  "declaracao": "Eu chamo a prosperidade para minha vida agora.\n\nQue as portas se abram e as oportunidades venham ao meu encontro.\n\nDecreto que as dívidas sejam pagas e o emprego que desejo se manifeste.\n\nRecebo a abundância com gratidão e confiança.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Procure por vagas de emprego que antes não considerou.",
+    "Mantenha uma atitude positiva, mesmo com obstáculos.",
+    "Busque ajuda de amigos ou familiares para possíveis indicações."
+  ],
+  "frase_final": "A prosperidade te encontra e abre novos caminhos.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Kenia, essa simpatia vai abrir seus caminhos financeiros. Para ter uma visão ainda mais clara do que te espera, te indico o Mapa Anual por só R$ 9,98. Quer saber mais?",
+  "nome": "Kenia Gonçalves dos Santos",
+  "primeiroNome": "Kenia"
+}
