@@ -1,0 +1,54 @@
+{
+  "previa": "Ronaldo, tá precisando de proteção e descarrego? Vou te ensinar uma simpatia poderosa pra te ajudar a limpar as energias ruins e te proteger. É simples e eficaz, usando materiais fáceis de achar. Juntos, vamos tirar todo peso que tá te incomodando. Bora fazer isso agora?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi Ronaldo, tô sabendo que você tá precisando de uma boa proteção e descarrego. Olha só, vamos cuidar disso. Essa simpatia vai ajudar a afastar as energias ruins e te proteger no dia a dia. Confia, que tudo vai melhorar!",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Representa a pureza e a proteção."
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Pra escrever seus pedidos."
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Ajuda a trazer clareza."
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Limpa as energias negativas."
+    },
+    {
+      "nome": "Pano branco",
+      "descricao": "Simboliza a paz e a proteção."
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo da sua casa, em silêncio.",
+    "Acende a vela branca e pensa na proteção que você quer.",
+    "Escreve no papel branco tudo que você quer se livrar.",
+    "Coloca o sal grosso ao redor da vela e do papel.",
+    "Lê a declaração em voz alta, com firmeza.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia ótimo pra limpezas e cortes de energia negativa.",
+  "lua": "Minguante",
+  "lua_desc": "Ideal pra se livrar das cargas negativas.",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu limpo meu caminho de toda energia ruim.\n\nEu rompo as correntes que me prendem ao que me faz mal.\n\nEu purifico meu ser com a força do sal e da luz.\n\nEu me protejo e nada me atinge.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso).",
+  "dicas": [
+    "Ronaldo, depois da simpatia, toma um banho relaxante.",
+    "Mantenha sua casa arejada e iluminada, isso ajuda na proteção.",
+    "Evite contato com pessoas negativas logo após o ritual."
+  ],
+  "frase_final": "Proteja-se e limpe-se para abrir novos caminhos.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Ronaldo, essa simpatia é poderosa 🕯️ Pra fortalecer ainda mais, te sugiro um Banho Energético por só R$ 9,98 que vai complementar sua proteção e limpeza. Bora experimentar? ✨",
+  "nome": "Ronaldo Souza Costa",
+  "primeiroNome": "Ronaldo"
+}
