@@ -1,0 +1,54 @@
+{
+  "previa": "Arthur, se tá sentindo os caminhos fechados, essa simpatia é pra abrir tudo! Vamos trabalhar pra trazer a prosperidade de volta. Material simples e fácil, e a intenção é tudo. Bora lá transformar essa energia!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Arthur! Eu entendo quando a gente sente que a vida tá emperrada. Vamos cuidar disso e abrir teus caminhos pra prosperidade. Prepara tua fé e segue essa simpatia que tudo vai fluir melhor!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Escreva nele seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever no papel"
+    },
+    {
+      "nome": "Punhado de sal grosso",
+      "descricao": "Para purificar"
+    },
+    {
+      "nome": "Pétalas de rosa amarela",
+      "descricao": "Para energizar"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso. Desliga as luzes.",
+    "Acenda a vela amarela e diga: 'Eu acendo a chama da prosperidade'.",
+    "No papel dourado, escreva 'Meus caminhos estão abertos para a prosperidade'.",
+    "Coloque o papel sob a vela e espalhe o sal grosso e pétalas de rosa ao redor.",
+    "Leia a declaração em voz alta, firme e com fé.",
+    "Guarda o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta, dia regido por Júpiter, ideal pra prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Fase Crescente, pra atrair crescimento",
+  "horario": "Manhã",
+  "horario_desc": "de manhã, quando o dia tá começando",
+  "declaracao": "Eu decreto que meus caminhos estão abertos para a prosperidade.\n\nA sorte e a abundância vêm até mim com facilidade.\n\nEu recebo tudo que é meu por direito.\n\nA energia flui livremente na minha vida, sem bloqueios.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre pensa positivo, Arthur, pensamentos bons atraem coisas boas.",
+    "Tenta manter um ambiente organizado, isso ajuda a energia circular bem.",
+    "Evita reclamar dos problemas, foca na solução e do que deseja alcançar."
+  ],
+  "frase_final": "Prosperidade é nosso direito, vamos abrir os caminhos!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Arthur, essa simpatia vai abrir teus caminhos! Pra potencializar, te ofereço um Banho Energético por só R$ 9,98 que limpa e prepara teu campo antes da simpatia. Vamos nessa? 💪",
+  "nome": "Arthur Loubet Júnior",
+  "primeiroNome": "Arthur"
+}
