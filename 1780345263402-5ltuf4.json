@@ -1,0 +1,50 @@
+{
+  "previa": "Se os caminhos estão fechados e as oportunidades não aparecem, essa simpatia é pra você. Vamos abrir as portas para um novo emprego, Gabrielle!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Gabrielle! Sei que você tá passando um perrengue e nenhuma chance de emprego aparece, né? Vamos abrir esses caminhos juntos e trazer as oportunidades que você merece. Confia!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para trazer luz e abertura"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Para escrever seu desejo"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Símbolo de prosperidade"
+    },
+    {
+      "nome": "Pétalas de girassol",
+      "descricao": "Atrair energia positiva e sorte"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo, onde você possa se concentrar sem ser interrompida.",
+    "Acenda a vela amarela e diga: 'Luz que abre caminhos, traga-me oportunidades'.",
+    "No papel amarelo, escreva seu nome completo e 'abertura de caminhos profissionais'.",
+    "Coloque o papel debaixo da vela e espalhe as pétalas de girassol ao redor.",
+    "Leia a declaração em voz alta, com fé e firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, que traz expansão e oportunidades",
+  "lua": "Crescente",
+  "lua_desc": "essa lua ajuda a atrair novas oportunidades e crescimento",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol traz energia nova e vitalidade",
+  "declaracao": "Eu, Gabrielle Cardoso dos Santos, abro meus caminhos profissionais agora.\n\nEu decreto que as oportunidades de emprego chegam até mim com facilidade.\n\nMinha carreira se expande e a prosperidade se faz presente na minha vida.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Mantenha seu currículo atualizado e disponível.",
+    "Participe de grupos de networking online e presenciais.",
+    "Fique atenta a vagas em empresas que combinam com seu perfil."
+  ],
+  "frase_final": "Com fé, sua carreira vai decolar e os caminhos se abrirão.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Gabrielle, essa simpatia é poderosa para abrir caminhos! 🌟 Pra dar um empurrãozinho, te recomendo um Banho Energético por só R$ 9,98 que vai alinhar suas energias. Topa?",
+  "nome": "Gabrielle Cardoso dos Santos",
+  "primeiroNome": "Gabrielle"
+}
