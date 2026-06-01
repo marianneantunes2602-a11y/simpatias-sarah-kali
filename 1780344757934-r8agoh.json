@@ -1,0 +1,50 @@
+{
+  "previa": "Adriana, se você sente que as coisas estão meio travadas e precisa de uma ajuda pra abrir os caminhos, tenho uma simpatia que pode te ajudar! Simples, mas poderosa, vai te dar aquele empurrãozinho que você está precisando.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Adriana, minha flor, sei que você está precisando abrir os caminhos e dar uma melhora nessa sua situação. Vamos fazer uma simpatia simples, mas que vai te ajudar a trazer a prosperidade que você merece.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "simboliza prosperidade e abertura de caminhos"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "para registrar sua intenção"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "elemento de limpeza e proteção"
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar tranquilo, sem barulho, pra fazer essa simpatia.",
+    "Acenda a vela amarela e mentalize seus caminhos se abrindo.",
+    "Escreva no papel branco seus desejos e intenções de prosperidade.",
+    "Coloque um pouco de sal grosso ao lado da vela.",
+    "Leia a declaração em voz alta, com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "momento para atrair e crescer",
+  "horario": "Manhã",
+  "horario_desc": "de manhã cedo, quando o dia começa a clarear",
+  "declaracao": "Eu decreto a abertura dos meus caminhos e recebo agora a prosperidade que mereço.\n\nA abundância flui livremente em minha vida.\n\nEu atraio oportunidades e sucesso.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Faz essa simpatia com o coração aberto e confiança.",
+    "Sempre que olhar para a vela, mentalize seus desejos se realizando.",
+    "Mantenha a fé e a mente positiva todos os dias."
+  ],
+  "frase_final": "Abra seus caminhos e deixe a prosperidade entrar.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Adriana, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Adriana Celestino da Silva",
+  "primeiroNome": "Adriana"
+}
