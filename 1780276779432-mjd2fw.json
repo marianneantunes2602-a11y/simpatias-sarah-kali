@@ -1,0 +1,50 @@
+{
+  "previa": "Cintia, tá precisando de uma ajuda pra abrir os caminhos do dinheiro na sua vida? Vamos dar um jeito nessa escassez com uma simpatia poderosa que vai te ajudar a atrair novas oportunidades. Vem comigo que eu te ensino!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Cintia! Sei que a falta de dinheiro tá pegando e a escassez tá pesada. Vamos abrir esses caminhos e trazer prosperidade pra você. A simpatia é simples, mas poderosa. Vem com fé que tudo vai melhorar!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "representa a prosperidade"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "pro seu pedido de riqueza"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "pra escrever com força e intenção"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "pra limpar as energias bloqueadoras"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, sem barulho, e apaga as luzes.",
+    "Acende a vela amarela, pedindo prosperidade.",
+    "Escreve no papel dourado 'Atrai dinheiro e oportunidades'.",
+    "Coloca um pouquinho de sal grosso ao lado da vela.",
+    "Com fé, lê a declaração em voz alta.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, que traz sorte e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "pra atrair aquilo que você deseja",
+  "horario": "Manhã",
+  "horario_desc": "começo do dia, quando a energia tá renovada",
+  "declaracao": "Eu atraio dinheiro e novas oportunidades para a minha vida.\n\nA prosperidade vem até mim agora e eu recebo com gratidão.\n\nEu confio que os caminhos estão se abrindo e a escassez acabou.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Guarda sempre um pouco de sal grosso em casa pra afastar energia ruim.",
+    "Faz essa simpatia de novo se sentir que os caminhos ainda não abriram.",
+    "Confia na energia positiva da vela amarela, ela atrai riqueza."
+  ],
+  "frase_final": "A prosperidade vai entrar na sua vida, Cintia.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Cintia, essa simpatia vai te ajudar nas finanças. Pra reforçar ainda mais, te recomendo um Banho Energético por só R$ 9,98 que vai limpar as energias paradas e abrir espaço pro novo. Vamos? 💫",
+  "nome": "Cintia Grasiela Mota da Silva Branquinho",
+  "primeiroNome": "Cintia"
+}
