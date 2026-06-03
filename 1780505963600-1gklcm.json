@@ -1,0 +1,54 @@
+{
+  "previa": "Quer o ex de volta? Tá com o coração apertado por causa dessa situação? Vamos agir, Fernanda! A simpatia certa pode ajudar a trazer ele de volta pra você.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Oi, Fernanda! Eu sei que a situação tá complicada com seu ex, ainda mais com a presença da Stefane Karina. Vamos tentar reverter isso e trazer ele de volta pra você. Essa simpatia vai te ajudar a abrir caminho.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela vermelha, simboliza paixão e reconciliação"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa, para escrever o nome do seu amor"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha, cor da paixão"
+    },
+    {
+      "nome": "Açúcar",
+      "descricao": "Uma pitada, pra adoçar as palavras entre vocês"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Símbolo do amor e carinho"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo onde ninguém te incomode",
+    "Acenda a vela vermelha dizendo: 'Chamo a reconciliação e o amor de volta'",
+    "Escreva no papel rosa: 'Eu e [nome do ex] juntos de novo'",
+    "Coloque as pétalas e o açúcar sobre o papel",
+    "Diga a declaração em voz alta, com fé",
+    "Carrega o papel na carteira até a próxima sexta"
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, ideal para reconciliação",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e aumentar o amor",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo de volta o coração de [nome do ex] pra mim\n\nA briga e a distância entre nós se dissipam\n\nNossa união é mais forte do que qualquer obstáculo\n\nStefane Karina não tem poder sobre nosso amor\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Se puder, evite contato com Stefane Karina nesse período.",
+    "Mantenha pensamentos positivos sobre a reconciliação.",
+    "Durante a semana, visualize vocês dois em harmonia."
+  ],
+  "frase_final": "O amor pode renascer quando menos esperamos.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Fernanda, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Fernanda Aparecida Gonçalves da Silva",
+  "primeiroNome": "Fernanda"
+}
