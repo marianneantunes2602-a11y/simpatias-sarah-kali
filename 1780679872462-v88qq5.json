@@ -1,0 +1,50 @@
+{
+  "previa": "Lilia, se sente sem energia e precisa de uma renovação? Vamos cuidar disso e abrir caminhos para a prosperidade com uma simpatia poderosa. Vamos lá!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Lilia. Eu sei que lidar com a rejeição e o silêncio é difícil, e isso pode abalar a autoconfiança. Vamos juntas renovar sua energia e abrir os caminhos para a prosperidade e amor próprio.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "para atrair prosperidade"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "para dar força às suas palavras"
+    },
+    {
+      "nome": "Grãos de arroz",
+      "descricao": "para simbolizar abundância"
+    }
+  ],
+  "preparo": [
+    "Procure um lugar tranquilo onde você não será interrompida.",
+    "Acenda a vela amarela e mentalize prosperidade entrando na sua vida.",
+    "Escreva no papel: 'Eu sou merecedora de amor e prosperidade'.",
+    "Coloque os grãos de arroz em volta da vela, simbolizando abundância.",
+    "Leia a declaração em voz alta, com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, para expansão e sorte",
+  "lua": "Crescente",
+  "lua_desc": "para atrair novos começos e oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "início do dia, para renovar as energias",
+  "declaracao": "Eu decreto que a prosperidade e o amor próprio entram na minha vida agora.\n\nEu me valorizo e me respeito a cada dia.\n\nOs caminhos para a abundância e o amor estão abertos para mim.\n\nEu atraio oportunidades e energias positivas para o meu caminho.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que sentir a energia baixa, releia o papel.",
+    "Procure fazer atividades que você gosta e te fazem bem.",
+    "Acredite no seu potencial e siga com confiança."
+  ],
+  "frase_final": "Renove sua energia e abra caminhos para a prosperidade agora.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Lilia, essa simpatia é poderosa 🕯️ Pra dar um impulso ainda maior, te indico um Banho Energético por só R$ 9,98 que vai renovar suas energias antes da simpatia. Vai? 💜",
+  "nome": "Lilia Alves Rodrigues de Moura",
+  "primeiroNome": "Lilia"
+}
