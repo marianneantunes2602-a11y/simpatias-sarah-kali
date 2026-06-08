@@ -1,0 +1,50 @@
+{
+  "previa": "Gracenia, teu marido tá distante? Bora trazer ele de volta pro seu lado com essa simpatia poderosa. Tenha fé e siga o passo a passo direitinho!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Oi Gracenia, minha flor! Eu sei que teu marido tá distante e frio, e isso tá te deixando chateada. Vamos trazer ele de volta pro seu colo com essa simpatia de reconciliação, tá bom? Vamos firmar esse amor de novo.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Para acender o amor e a paixão de volta"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Para escrever o seu desejo de reconciliação"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para dar força ao que você escreve"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para espalhar amor no ambiente"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar tranquilo na sua casa, sem barulho, e apaga as luzes.",
+    "Acende a vela vermelha, pensando no amor do seu marido voltando.",
+    "Escreve no papel rosa o nome do seu marido e o seu nome juntos.",
+    "Espalha as pétalas de rosa ao redor da vela, criando um círculo de amor.",
+    "Lê em voz alta a declaração, com o coração cheio de intenção.",
+    "Carrega o papel na carteira até a próxima sexta."
+  ],
+  "dia": "Sexta-feira",
+  "dia_desc": "dia de Vênus, perfeito para assuntos do coração",
+  "lua": "Crescente",
+  "lua_desc": "para atrair e crescer o amor novamente",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor do meu marido de volta pra mim.\n\nEu decreto a reconciliação entre nós dois.\n\nQue a chama do amor aqueça os nossos corações.\n\nEu atraio o carinho e o colo que tanto desejo.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Faz essa simpatia com o coração aberto e cheio de amor.",
+    "Sempre que puder, fala com teu marido sobre os bons momentos que viveram.",
+    "Tenta criar momentos a dois, mesmo que sejam simples."
+  ],
+  "frase_final": "O amor vai florescer novamente, Gracenia. Tenha fé.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Gracenia, essa simpatia é poderosa! Pra trazer ainda mais harmonia, te indico o Mapa do Amor por só R$ 9,98 que mostra caminhos pro coração. Quer tentar? ❤️",
+  "nome": "Gracenia Francisco Reginaldo",
+  "primeiroNome": "Gracenia"
+}
