@@ -1,0 +1,50 @@
+{
+  "previa": "Tá sentindo que o amor tá distante, Izabela? Vamos trazer esse calor de volta! Com uma simpatia poderosa pra atrair amor, você pode reaproximar quem tá longe e esquentar o coração. Vamos juntas?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Izabela, minha flor, eu entendo bem como é sentir o coração apertado quando o amor se afasta. Vamos dar uma força nessa energia e trazer de volta aquele calor que parece ter se perdido?",
+  "materiais": [
+    {
+      "nome": "Vela rosa",
+      "descricao": "Representa amor e atração"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Para escrever seu desejo de amor"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para declarar suas intenções"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para atrair o amor"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo onde você não vai ser interrompida.",
+    "Acende a vela rosa dizendo: 'Eu atraio o amor para minha vida'.",
+    "Escreve no papel rosa: 'Eu atraio o amor que está distante'.",
+    "Coloca as pétalas de rosa em volta da vela.",
+    "Lê em voz alta a declaração de amor e atração.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para o amor",
+  "lua": "Crescente",
+  "lua_desc": "traz o crescimento e a expansão dos sentimentos",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor de volta para mim.\n\nEu atraio a energia de amor que está distante.\n\nEu decreto que o calor do nosso amor cresça novamente.\n\nQue os laços sejam fortalecidos e reaproximados.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Pensa na pessoa com carinho enquanto faz a simpatia.",
+    "Usa uma roupa confortável que te faça sentir bem.",
+    "Se puder, faz isso num lugar que te traz boas lembranças."
+  ],
+  "frase_final": "O amor vem quando a gente chama com o coração aberto.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Izabela, essa simpatia é poderosa! Pra dar um empurrãozinho extra, te sugiro um Banho Energético por só R$ 9,98 que prepara teu coração antes da simpatia. Vai? 💖",
+  "nome": "Izabela da Silva Olímpio",
+  "primeiroNome": "Izabela"
+}
