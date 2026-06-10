@@ -1,0 +1,54 @@
+{
+  "previa": "Tá querendo abrir os caminhos pra atrair aquele dinheirinho inesperado e ter sorte nos jogos, Erica? Vem cá, minha flor, que eu tenho uma simpatia certeira pra você que vai ajudar a melhorar seu financeiro.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Erica, eu sei que a grana tá curta e você tá precisando de uma forcinha pra atrair dinheiro e ter aquela sorte nos jogos. Vamos botar essa energia pra abrir caminhos e trazer prosperidade pra sua vida.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e a atração de riqueza"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Para escrever seus desejos de prosperidade"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Pra dar o brilho na sua intenção"
+    },
+    {
+      "nome": "Pétalas de girassol",
+      "descricao": "Simbolizam o sol e a abundância"
+    },
+    {
+      "nome": "Saco de arroz",
+      "descricao": "Atrai prosperidade e fartura"
+    }
+  ],
+  "preparo": [
+    "Ache um lugar tranquilo na sua casa onde você não vai ser interrompida.",
+    "Acenda a vela amarela e pense na prosperidade que você quer atrair.",
+    "Escreva no papel amarelo: 'Atraio dinheiro e sorte em jogos, agora'.",
+    "Coloque o papel dentro do saco de arroz e cubra com pétalas de girassol.",
+    "Com firmeza, leia sua declaração em voz alta, sentindo a energia vir.",
+    "Guarda o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, ideal para atrair prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Perfeita para atrair e crescer o que você deseja",
+  "horario": "Manhã",
+  "horario_desc": "Quando o sol começa a brilhar, trazendo novas oportunidades",
+  "declaracao": "Eu atraio o dinheiro inesperado e a sorte nos jogos.\n\nMeus caminhos se abrem para a prosperidade.\n\nEu recebo agora a abundância que mereço.\n\nO universo conspira a meu favor.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Jogue na loteria sempre aos sábados, dia de regência de Saturno.",
+    "Mantenha uma moeda de um real no bolso direito como amuleto.",
+    "Acredite na sua sorte e visualize a vitória nos jogos."
+  ],
+  "frase_final": "Sua prosperidade tá a caminho, amiga, não desista!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Erica, essa simpatia vai abrir seus caminhos! Pra entender melhor suas oportunidades de prosperidade, te indico um Mapa Anual por só R$ 9,98. Que tal? 🌟",
+  "nome": "Erica Aparecida Domingos da silva",
+  "primeiroNome": "Erica"
+}
