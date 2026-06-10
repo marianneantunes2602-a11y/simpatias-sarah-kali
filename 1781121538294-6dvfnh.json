@@ -1,0 +1,54 @@
+{
+  "previa": "Pamela, tá difícil sentir que o dinheiro não rende como antes e que tem olho grande em cima. Vou te passar uma simpatia poderosa pra abrir seus caminhos e afastar essa inveja toda.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Pamela, flor, sei que tá complicado ver as coisas paradas e sentir esse peso todo de olho grande e preocupação. Vamos dar um jeito nisso com uma simpatia pra abrir seus caminhos e afastar essa energia ruim.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela ou dourada"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado de sal grosso"
+    },
+    {
+      "nome": "Ervas",
+      "descricao": "Alecrim ou manjericão"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar calmo em casa, de preferência em silêncio.",
+    "Acende a vela amarela ou dourada pedindo abertura de caminhos.",
+    "Escreve no papel: 'Minha prosperidade cresce e as portas se abrem'.",
+    "Coloca o papel com o sal grosso e as ervas em cima.",
+    "Lê a declaração em voz alta, com força e fé.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, propício para prosperidade e crescimento",
+  "lua": "Crescente",
+  "lua_desc": "tempo de aumentar e atrair coisas boas",
+  "horario": "Manhã",
+  "horario_desc": "cedo, quando o dia ainda tá começando",
+  "declaracao": "Eu decreto que meus caminhos se abrem agora.\n\nToda inveja e olho grande se afastam de mim.\n\nEu recebo a prosperidade, que cresce como a luz do sol.\n\nMinhas oportunidades são muitas e me chegam facilmente.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Pamela, sempre que sentir um peso, usa suas ervas preferidas como alecrim.",
+    "Deixa um copo de água com sal grosso atrás da porta pra proteção.",
+    "Faz uma limpeza na casa com pano molhado em água com sal grosso."
+  ],
+  "frase_final": "A prosperidade vem e quebra todo olho grande!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Pamela, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Pamela kethelyn Conceição valejo",
+  "primeiroNome": "Pamela"
+}
