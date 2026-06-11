@@ -1,0 +1,54 @@
+{
+  "previa": "Maria, eu sei que os inimigos do trabalho, como Pedro e Arlindo, podem estar pesando a sua vida. Você precisa de uma proteção forte pra blindar sua energia e afastar essas más intenções. Vamos preparar uma simpatia simples e poderosa pra te ajudar nessa luta.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Maria, minha flor, eu sei que tá difícil com o Pedro e o Arlindo te causando no trabalho. Vamos fazer uma simpatia de proteção pra criar uma barreira contra essas energias ruins. Vai dar certo, confia!",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Simboliza a pureza e proteção"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever os nomes e intenções"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever no papel"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para proteção energética"
+    },
+    {
+      "nome": "Pano branco",
+      "descricao": "Para cobrir o papel no encerramento"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e sem barulho na sua casa.",
+    "Acenda a vela branca e declare que ela vai te proteger.",
+    "Escreva no papel os nomes: Pedro, Arlindo e suas intenções de proteção.",
+    "Coloque o papel embaixo do pano branco e polvilhe sal grosso por cima.",
+    "Leia a declaração de proteção em voz alta com firmeza.",
+    "Enterra o papel num vaso de planta da casa."
+  ],
+  "dia": "Quarta",
+  "dia_desc": "meio da semana, para comunicação e resolver pendências",
+  "lua": "Cheia",
+  "lua_desc": "É a fase de máxima energia, ideal para proteger",
+  "horario": "Madrugada",
+  "horario_desc": "entre meia-noite e 3h, quando o mundo tá quieto",
+  "declaracao": "Eu decreto a minha proteção contra todo mal\n\nPedro e Arlindo não terão poder sobre mim\n\nEu envolvo minha vida com a força do bem\n\nNinguém me atinge, eu sou protegida\n\nEu sou forte, eu sou segura\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Enterra o papel num vaso de planta da casa",
+  "dicas": [
+    "Evite discutir com Pedro e Arlindo, mantenha a calma.",
+    "Faça essa simpatia em um ambiente que você se sinta segura.",
+    "Sempre que se sentir ameaçada, visualize a proteção ao seu redor."
+  ],
+  "frase_final": "Proteção é a sua força. Confie no poder dessa simpatia.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Maria, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que reforça sua proteção contra esses inimigos. Vai? 💜",
+  "nome": "Maria Jorgeana Carvalho dos dos Santos",
+  "primeiroNome": "Maria"
+}
