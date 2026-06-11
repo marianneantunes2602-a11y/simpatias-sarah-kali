@@ -1,0 +1,50 @@
+{
+  "previa": "Tá difícil lidar com essa pessoa no trabalho, né? Vamos fazer uma simpatia pra abrir os caminhos da prosperidade e tirar esse peso do seu ombro. É simples e poderosa.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Nathele, minha flor, eu sei como é pesado ter alguém te perseguindo no trabalho. Vamos botar essa simpatia em prática pra trazer a prosperidade e dar um descarrego nesse ambiente.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela ou dourada"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Uma pitada de sal grosso"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, longe da confusão.",
+    "Acende a vela amarela, pensando na prosperidade que você quer.",
+    "Escreve no papel: 'Eu, Nathele, abro os caminhos da prosperidade'.",
+    "Coloca o papel debaixo da vela e joga uma pitada de sal grosso por cima dele.",
+    "Lê a declaração em voz alta, sente o poder das palavras.",
+    "Guarda o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Dia de Júpiter, pra expandir os caminhos.",
+  "lua": "Crescente",
+  "lua_desc": "Quando a lua cresce, cresce a prosperidade.",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu, Nathele, declaro que em minha vida só há espaço para o bem.\n\nEu rompo todas as amarras que me atrasam.\n\nEu abro meus caminhos e atraio prosperidade.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova.",
+  "dicas": [
+    "No trabalho, sempre que puder, joga um pouco de sal grosso perto da sua mesa.",
+    "Em casa, acende uma vela branca toda segunda pra limpar as energias.",
+    "Passe um pouco de sal grosso nos seus sapatos antes de sair de casa."
+  ],
+  "frase_final": "Prosperidade vem quando o caminho tá limpo.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Nathele, essa simpatia vai abrir seus caminhos. Pra dar um reforço, sugiro um Banho Energético por só R$ 9,98 que vai te ajudar a descarregar as energias ruins. O que acha?",
+  "nome": "Nathele Cristina",
+  "primeiroNome": "Nathele"
+}
