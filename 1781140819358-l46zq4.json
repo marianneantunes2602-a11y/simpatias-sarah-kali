@@ -1,0 +1,54 @@
+{
+  "previa": "Bianca, tá se sentindo que a vida tá travada? Vamos dar um jeito nisso com uma simpatia poderosa de descarrego. Prepara o ambiente, segue os passos e deixa as energias ruins irem embora.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Bianca, minha flor, sei que você tá sentindo que a vida tá travada. É pesado mesmo, mas vamos dar um jeito nisso, tá? Com essa simpatia, a gente vai limpar tudo de ruim e abrir caminho pra coisas boas.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Branca"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Azul"
+    },
+    {
+      "nome": "Água",
+      "descricao": "Potável"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Punhado"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, sem barulho e com pouca luz.",
+    "Acende a vela branca e pede proteção pra limpar as energias.",
+    "No papel branco, escreve: 'Libero tudo que trava minha vida.'",
+    "Coloca o papel embaixo da vela e ao lado, uma tigela com água e sal grosso.",
+    "Lê a declaração em voz alta, com fé e convicção.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "dia de Saturno, perfeito para limpezas e cortes",
+  "lua": "Minguante",
+  "lua_desc": "fase ideal para cortar energias pesadas",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu libero todas as amarras e energias pesadas que travam minha vida.\n\nEu permito que a luz entre e dissipe qualquer bloqueio.\n\nMinha vida flui livremente agora, e tudo de bom vem até mim.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso)",
+  "dicas": [
+    "Faz essa simpatia num lugar onde você se sinta à vontade.",
+    "Repete a simpatia toda semana se sentir que ainda tá pesado.",
+    "Evita discutir ou brigar durante o dia da simpatia."
+  ],
+  "frase_final": "Abra caminhos limpando o que pesa, minha flor.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Bianca, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Bianca costa da Silva",
+  "primeiroNome": "Bianca"
+}
