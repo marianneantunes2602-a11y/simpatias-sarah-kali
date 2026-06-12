@@ -1,0 +1,54 @@
+{
+  "previa": "Prissila, tá na hora de se libertar dessa humilhação toda. Vamos trabalhar na sua autoestima e amor próprio. Felipe não vai mais te derrubar!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Afastamento",
+  "saudacao": "Prissila, eu sei o quanto tá pesado ser humilhada desse jeito pelo Felipe. Chega disso, minha flor. Vamos dar um jeito de cortar essas amarras e abrir caminho para sua autoestima florescer.",
+  "materiais": [
+    {
+      "nome": "Vela preta",
+      "descricao": "Velinha simples, de mercado"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Qualquer papel serve"
+    },
+    {
+      "nome": "Caneta preta",
+      "descricao": "Para escrever o que precisa"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado"
+    },
+    {
+      "nome": "Objeto pessoal",
+      "descricao": "Algo que você usa todo dia"
+    }
+  ],
+  "preparo": [
+    "Arruma um cantinho tranquilo, sem barulho, e apaga as luzes",
+    "Acende a vela preta e diz: 'Eu corto o que me faz mal'",
+    "Escreve no papel o nome do Felipe e tudo que te machuca",
+    "Coloca o sal grosso em cima do papel, perto da vela",
+    "Segura seu objeto pessoal e lê a declaração em voz alta",
+    "Queima o papel ao terminar e joga as cinzas na rua, longe de casa"
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Perfeito para cortes e afastamentos",
+  "lua": "Minguante",
+  "lua_desc": "Fase ideal para se livrar do que não serve",
+  "horario": "Noite",
+  "horario_desc": "Depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu rompo os laços que me prendem à dor do Felipe\n\nNada mais me humilha\n\nEu sou forte, eu sou suficiente\n\nEu aceito agora o amor e respeito que mereço\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Queima o papel ao terminar e joga as cinzas na rua, longe de casa",
+  "dicas": [
+    "Lembre-se de respirar fundo sempre que lembrar do Felipe",
+    "Escreva num caderno tudo de bom que você tem e é",
+    "Evite lugares ou situações que te lembrem ele por enquanto"
+  ],
+  "frase_final": "Sua liberdade começa agora, cuide da sua autoestima.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Prissila, essa simpatia é poderosa. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que limpa as energias ruins e reforça sua força. Vai?",
+  "nome": "Prissila Aristides Silva",
+  "primeiroNome": "Prissila"
+}
