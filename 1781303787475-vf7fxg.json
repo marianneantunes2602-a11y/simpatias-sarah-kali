@@ -1,0 +1,50 @@
+{
+  "previa": "Se a vida parou e você quer voltar a abrir os caminhos, essa simpatia é pra você. Use a força das velas e das palavras para atrair mais prosperidade e movimento. Vamos lá, Francieli!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Francieli, eu entendo bem o que você tá passando. Parece que de repente tudo parou, né? A vida tava fluindo e agora tá empacada. Vamos dar um empurrãozinho nisso e abrir novamente essas portas. É hora de virar esse jogo!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "para atrair prosperidade e abrir caminhos"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "para dar forma aos pensamentos"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "elemento de purificação e limpeza"
+    }
+  ],
+  "preparo": [
+    "Encontre um cantinho tranquilo, longe de barulho, onde você possa se concentrar em paz.",
+    "Acenda a vela amarela com o foco nos seus novos caminhos e conquistas.",
+    "Escreva no papel dourado tudo que você deseja abrir na sua vida.",
+    "Coloque um punhado de sal grosso sobre o papel, visualizando a limpeza dos obstáculos.",
+    "Leia em voz alta a declaração escrita, sentindo a força das palavras.",
+    "Guarda o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, traz prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "ótima para atrair e fazer crescer",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol tá nascendo, trazendo novas oportunidades",
+  "declaracao": "Eu decreto que meus caminhos estão abertos.\n\nA energia da prosperidade volta a fluir na minha vida.\n\nEu atraio conquistas, sucesso e felicidade novamente.\n\nTudo que desejo vem na minha direção, sem barreiras.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que olhar para a carteira, lembre dos seus desejos e visualize eles se realizando.",
+    "Use roupas amarelas ou douradas em dias importantes para potencializar sua energia de prosperidade.",
+    "Evite pensamentos negativos ou pessoas que drenem sua energia durante esse período de renovação."
+  ],
+  "frase_final": "Com fé e ação, seus caminhos vão se abrir novamente.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Francieli, essa simpatia vai te ajudar a abrir os caminhos! Para reforçar ainda mais, te indico um Banho Energético por só R$ 9,98 que vai dar aquele empurrão extra na sua energia. Vamos nessa? 🌟",
+  "nome": "Francieli Regina da Rosa Camargo",
+  "primeiroNome": "Francieli"
+}
