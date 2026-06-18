@@ -1,0 +1,54 @@
+{
+  "previa": "Alessandra, tá difícil mesmo quando parece que o dinheiro some. Vamos abrir esse caminho com uma simpatia de prosperidade! Tudo que você precisa é de uma vela amarela, papel, caneta e um pouquinho de fé. Vamos juntas nessa?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Alessandra, minha flor, eu sei que as coisas não estão fáceis e parece que o dinheiro tá sumindo das suas mãos. Vamos abrir esses caminhos para que a prosperidade entre de vez na sua vida.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Amarela, para atrair prosperidade"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco para escrever suas intenções"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul para firmar o pedido"
+    },
+    {
+      "nome": "Moeda",
+      "descricao": "Uma moeda qualquer, como símbolo de prosperidade"
+    },
+    {
+      "nome": "Pétalas de rosa amarela",
+      "descricao": "Para energizar e atrair riqueza"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, sem barulho e apague as luzes.",
+    "Acenda a vela amarela, pensando na prosperidade que você deseja.",
+    "Escreva no papel: 'Minha prosperidade cresce e se multiplica todos os dias'.",
+    "Coloque a moeda sobre o papel e cercá-la com as pétalas de rosa.",
+    "Leia a declaração abaixo em voz alta, com fé.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, bom para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "perfeita para atrair e crescer",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia começa a clarear, trazendo novas oportunidades",
+  "declaracao": "Eu decreto que a prosperidade vem até mim.\n\nMeu caminho está aberto e o dinheiro flui para minha vida.\n\nEu recebo abundância e consigo pagar todas as minhas contas com facilidade.\n\nO meu trabalho é recompensado e nada mais some das minhas mãos.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que receber dinheiro, agradeça mentalmente e guarde uma parte.",
+    "Procure acender uma vela amarela toda quinta-feira para fortalecer o pedido.",
+    "Tenta não gastar em coisas desnecessárias até sentir a melhora."
+  ],
+  "frase_final": "Prosperidade está a caminho, é só ter fé e paciência.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Alessandra, essa simpatia vai abrir teus caminhos 🌟 Pra fortalecer ainda mais, tenho um Banho Energético por só R$ 9,98 que vai te ajudar a preparar teu campo para a prosperidade. Bora nessa?",
+  "nome": "alessandra",
+  "primeiroNome": "Alessandra"
+}
