@@ -1,0 +1,50 @@
+{
+  "previa": "Marta, tá complicado mesmo, né? Família distante e problemas financeiros pesam no coração. Vamos abrir esses caminhos e trazer um pouco de leveza pra sua vida. Confia em mim, amiga.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Minha querida Marta, eu sei que a situação tá difícil, com a família e o emprego. Mas vamos dar um jeito nisso, abrir caminhos e trazer a esperança de volta. Estamos juntas nessa batalha, tá?",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade e abrir caminhos"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever seus desejos e intenções"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever com clareza"
+    },
+    {
+      "nome": "Punhado de alecrim",
+      "descricao": "Para trazer energias positivas"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar tranquilo e se concentra no que deseja mudar.",
+    "Acende a vela amarela com a intenção de abrir seus caminhos.",
+    "Escreve no papel branco: 'Eu, Marta, abro meus caminhos para a prosperidade e amor'.",
+    "Coloca o alecrim em cima do papel, focando na energia positiva.",
+    "Lê em voz alta a declaração com confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e abrir caminhos",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol traz novas energias",
+  "declaracao": "Eu, Marta, chamo a prosperidade e a alegria para minha vida.\n\nEu abro meus caminhos para o amor e o sucesso.\n\nQue minha família volte para mim com carinho e união.\n\nEu recebo agora todas as bênçãos que o universo me reserva.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Tenta conversar com seus filhos, mostrando o quanto sente falta.",
+    "Quando se sentir triste, respira fundo e visualiza um caminho iluminado.",
+    "Lembra de procurar novas oportunidades de trabalho com confiança."
+  ],
+  "frase_final": "Acredite, Marta, os caminhos se abrirão pra você.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Marta, essa simpatia vai abrir seus caminhos 🌟 Pra potencializar ainda mais, te sugiro um Banho Energético por só R$ 9,98, que ajuda a preparar seu campo pra receber as boas energias. Vamos tentar?",
+  "nome": "Marta Marques de Marroque",
+  "primeiroNome": "Marta"
+}
