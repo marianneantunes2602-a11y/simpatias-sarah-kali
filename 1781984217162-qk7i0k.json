@@ -1,0 +1,54 @@
+{
+  "previa": "Silvia, tá difícil ver o dinheiro parar na sua mão? Que tal uma simpatia pra trazer prosperidade de vez? É simples, mas poderosa. Se precisar, tô aqui!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Silvia, minha flor, entendi que o dinheiro não tá parando na sua mão, entrando um e saindo dez. Vamos cuidar disso com uma simpatia especial pra te ajudar a abrir os caminhos da prosperidade. Confia, vamos juntas nessa!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela ou dourada"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado de sal grosso"
+    },
+    {
+      "nome": "Moeda",
+      "descricao": "Uma moeda, qualquer valor"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar calmo e silencioso, longe das distrações",
+    "Acende a vela amarela e pensa na prosperidade chegando",
+    "No papel, escreve 'Dinheiro, venha e permaneça comigo'",
+    "Coloca a moeda em cima do papel e ao lado da vela",
+    "Lê a declaração em voz alta, com convicção",
+    "Carrega o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, propício para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "atrai e aumenta o que desejamos",
+  "horario": "Manhã",
+  "horario_desc": "de manhã cedo, quando o dia começa",
+  "declaracao": "Eu chamo a prosperidade para a minha vida.\n\nDinheiro, venha até mim e permaneça comigo.\n\nEu atraio abundância em tudo que faço.\n\nMinhas mãos estão abertas para receber e guardar.\n\nEu decreto que as minhas finanças crescem e se fortalecem.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que for usar dinheiro, olha pro papel e lembra da intenção",
+    "Mantém a moeda junto ao papel na carteira, é um símbolo de riqueza",
+    "Toda quinta, reforça a intenção da simpatia mentalizando prosperidade"
+  ],
+  "frase_final": "A prosperidade chega e permanece com você, Silvia.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Silvia, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te recomendo um Mapa Anual por só R$ 9,98, que te mostra as melhores fases pra prosperar. Vamos fazer? 💚",
+  "nome": "Silvia Maria Rodrigues da Silva",
+  "primeiroNome": "Silvia"
+}
