@@ -1,0 +1,50 @@
+{
+  "previa": "Querendo atrair aquele amor especial, Daniela? Com essa simpatia simples, você pode trazer mais romance e carinho para sua vida. Nada complicado, tudo feito com muito carinho e poder para atrair o que você deseja. Bora lá?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Daniela! Tá querendo atrair um amor bacana, né? Vamos focar nossas energias e usar essa simpatia para abrir as portas do coração. O importante é a intenção firme e clara no que você deseja. Vamos juntas nessa jornada cheia de afeto.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Rosa ou vermelha"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel sulfite rosa"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha"
+    },
+    {
+      "nome": "Pétalas",
+      "descricao": "De rosa vermelha"
+    }
+  ],
+  "preparo": [
+    "Escolhe um cantinho tranquilo da casa, sem ninguém pra te atrapalhar.",
+    "Acende a vela rosa ou vermelha, pensando no amor que você quer chamar.",
+    "Escreve seu nome e a palavra 'amor' várias vezes no papel.",
+    "Coloque as pétalas de rosa sobre o papel.",
+    "Leia a declaração em voz alta, com confiança e coração aberto.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "Dia de Vênus, dia do amor",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e crescer",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor verdadeiro para a minha vida.\n\nEu abro meu coração para receber carinho e afeto.\n\nO amor cresce ao meu redor e me envolve.\n\nEu atraio relacionamentos que me fazem bem.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Pratique o amor-próprio, cuide de você mesma.",
+    "Visualize momentos felizes com o amor todos os dias.",
+    "Use uma roupa que você se sinta bem, isso aumenta sua energia."
+  ],
+  "frase_final": "O amor já está a caminho, confia no processo.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Daniela, essa simpatia é poderosa. Pra fortalecer ainda mais, te indico um Mapa do Amor por só R$ 9,98, que te ajuda a entender melhor seu caminho no amor. Tá pronta pra isso? 💖",
+  "nome": "Daniela",
+  "primeiroNome": "Daniela"
+}
