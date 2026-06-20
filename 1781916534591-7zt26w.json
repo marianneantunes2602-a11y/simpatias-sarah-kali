@@ -1,0 +1,54 @@
+{
+  "previa": "Reginaldo, tá precisando limpar o caminho e se proteger, né? Com essa simpatia de proteção e descarrego, vamos dar um jeito nisso. É simples e poderosa. Prepara tudo direitinho que a paz vai voltar aí pra você, viu?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi, Reginaldo! Sei que as coisas estão pesadas e você tá buscando proteção e descarrego. Vamos fazer uma simpatia poderosa pra afastar essas energias ruins e trazer paz pro seu caminho. Segura na minha mão e vamos juntos!",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Pode ser uma vela simples, dessas de mercado."
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Um papel simples, serve até folha de caderno."
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Aquela que você usa no dia a dia mesmo."
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado de sal grosso ajuda a limpar."
+    },
+    {
+      "nome": "Pano branco",
+      "descricao": "Um pedaço de pano branco qualquer."
+    }
+  ],
+  "preparo": [
+    "Escolhe um canto tranquilo da casa, onde ninguém vá te incomodar.",
+    "Acende a vela branca e diz: 'Que a luz dessa vela leve embora todo o mal.'",
+    "Escreve no papel: 'Que as forças ruins se afastem de mim, Reginaldo.'",
+    "Coloca um punhado de sal grosso sobre o papel.",
+    "Coloca o papel embaixo da vela e fala sua declaração em voz alta.",
+    "Enterra o papel num vaso de planta da casa."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Bom para limpeza e descarrego, com a ajuda de Saturno.",
+  "lua": "Minguante",
+  "lua_desc": "Ótima para cortar energias negativas e limpar o caminho.",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu decreto que nada de ruim me afecta.\n\nEu chamo a proteção para meu caminho, limpando tudo que pesa.\n\nQue as forças ruins se afastem de mim, Reginaldo.\n\nEu sou forte, eu sou protegido.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Enterra o papel num vaso de planta da casa",
+  "dicas": [
+    "Reginaldo, sempre que se sentir pesado, refaça a simpatia.",
+    "Ao acender a vela, mentalize coisas boas entrando na sua vida.",
+    "Mantenha um vaso de planta saudável em casa, ele purifica o ambiente."
+  ],
+  "frase_final": "Proteção e paz vão entrar na sua vida, Reginaldo.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Reginaldo, essa simpatia é poderosa. Pra reforçar ainda mais, te indico um Banho Energético por só R$ 9,98 que ajuda a limpar e proteger seu campo. Vai?",
+  "nome": "Reginaldo de Oliveira fuguta filho",
+  "primeiroNome": "Reginaldo"
+}
