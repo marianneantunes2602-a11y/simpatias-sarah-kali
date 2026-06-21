@@ -1,0 +1,54 @@
+{
+  "previa": "Quer trazer seu amor de volta? Ele se afastou, mas você sente que ele ainda te quer, não é? Vamos atrair ele de novo pra você com essa simpatia poderosa. Vem comigo!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, minha flor! Eu entendo que você sente que ele ainda te quer, mesmo com o afastamento. Vamos atrair ele de volta pra você com muita força e carinho. Confia!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha, para o amor"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa, para escrever seu desejo"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha, para atrair amor"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para fortalecer a energia do amor"
+    },
+    {
+      "nome": "Objeto pessoal",
+      "descricao": "Algo que te conecte a ele, como uma foto ou presente"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar tranquilo e prepara um ambiente calmo, com pouca luz.",
+    "Acende a vela vermelha e mentaliza ele voltando pra você.",
+    "No papel rosa, escreve seu nome e o nome dele, unindo-os com um coração.",
+    "Coloca as pétalas de rosa ao redor da vela e segura o objeto pessoal.",
+    "Lê a declaração em voz alta, com toda a sua intenção.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para o amor",
+  "lua": "Crescente",
+  "lua_desc": "ajuda a atrair e aumentar sentimentos",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor de volta para mim\n\nEu atraio seu coração para o meu lado\n\nSei que você me quer, e eu te quero também\n\nVenha, nosso caminho é juntos\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Pense nele com carinho enquanto faz a simpatia.",
+    "Use o objeto pessoal que mais te conecta a ele.",
+    "Faça isso com fé e coração aberto, sem dúvidas."
+  ],
+  "frase_final": "Vamos atrair esse amor de volta com força total.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Faltou, essa simpatia é poderosa para atrair amor. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Faltou a simpatia do combo",
+  "primeiroNome": "Faltou"
+}
