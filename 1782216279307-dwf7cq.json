@@ -1,0 +1,54 @@
+{
+  "previa": "Daiana, tá ralando muito e o dinheiro não tá rendendo? Vamos dar um jeito nisso com uma simpatia de prosperidade e descarrego. É fácil de fazer e só precisa de uns materiais simples. Bora mudar essa parada!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Daiana, eu sei que tá difícil ver o dinheiro render mesmo trabalhando tanto. Vamos trazer mais prosperidade pra sua vida e tirar esse peso que tá te segurando.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Vela para atrair prosperidade"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever sua intenção"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Para escrever no papel"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para fazer o descarrego"
+    },
+    {
+      "nome": "Manjericão",
+      "descricao": "Erva para atrair dinheiro"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso.",
+    "Acenda a vela amarela e diga: 'Eu acendo a luz da prosperidade'.",
+    "Escreva no papel seu desejo de ver o dinheiro render mais.",
+    "Coloque o papel sobre um punhado de sal grosso e manjericão.",
+    "Leia a declaração em voz alta com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta é dia de Júpiter, perfeito para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "A lua crescente ajuda a atrair o que desejamos",
+  "horario": "Manhã",
+  "horario_desc": "de manhã, quando o dia começa a clarear",
+  "declaracao": "Eu chamo a prosperidade para minha vida agora\n\nO trabalho que faço é recompensado e meu dinheiro rende\n\nEu recebo abundância em todas as suas formas\n\nMinha vida financeira melhora a cada dia\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que for pagar suas contas, agradeça pelo dinheiro que está circulando.",
+    "Evite deixar a carteira bagunçada, mantenha ela organizada.",
+    "Toda quinta, acenda uma vela amarela pra reforçar sua intenção de prosperidade."
+  ],
+  "frase_final": "Chamando a abundância pra sua vida com força e fé.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Daiana, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Daiana Maria de Jesus",
+  "primeiroNome": "Daiana"
+}
