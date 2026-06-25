@@ -1,0 +1,50 @@
+{
+  "previa": "Giovani, tá difícil fazer as coisas andarem no trabalho, né? Vamos abrir esses caminhos com uma simpatia poderosa e simples. É hora de virar o jogo e atrair oportunidades pra você.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Giovani, eu sei que a situação tá complicada e o serviço tá difícil de aparecer. Vamos dar uma força pra abrir seus caminhos e atrair boas oportunidades de trabalho. Prepara esses materiais e confia.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela para atrair prosperidade"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco para escrever seu desejo"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta dourada para fortalecer a intenção"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado de sal grosso para purificar"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo e se concentra no que deseja.",
+    "Acende a vela amarela e foca no brilho dela, pensando na prosperidade.",
+    "No papel, escreve: 'Eu, Giovani, atraio o trabalho e a prosperidade.'",
+    "Coloca o papel debaixo do prato com a vela.",
+    "Lê a declaração em voz alta, com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, perfeito para atrair prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "fase de crescimento para atrair novos empregos",
+  "horario": "Manhã",
+  "horario_desc": "cedo, com o despertar do dia",
+  "declaracao": "Eu, Giovani, abro agora os meus caminhos.\n\nAtraio trabalho e oportunidades com facilidade.\n\nO que estava fechado, agora se abre.\n\nEu recebo a prosperidade que mereço.\n\nNovas portas se abrem para mim.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Cuidado com quem você compartilha seus planos, nem todo mundo torce por você.",
+    "Preste atenção nas oportunidades que surgem, podem ser sutis.",
+    "Mantenha a mente positiva e não perca a fé, as coisas vão melhorar."
+  ],
+  "frase_final": "Abre seus caminhos e atrai trabalho com essa simpatia poderosa.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Giovani, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Giovani santos da conceição",
+  "primeiroNome": "Giovani"
+}
