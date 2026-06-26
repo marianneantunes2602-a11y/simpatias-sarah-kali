@@ -1,0 +1,50 @@
+{
+  "previa": "Vera, minha flor, tá precisando de uma proteção forte? Bora fazer uma simpatia poderosa pra proteger você e sua casa. Simples e direto, pra você se sentir mais segura e tranquila.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Oi Vera, eu sei que você tá precisando de uma proteção pra você e sua casa. Vamos fazer uma simpatia poderosa pra fechar seu campo e afastar qualquer energia ruim. Confia, vai dar certo!",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Uma vela comum, simboliza pureza e proteção."
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Folha de papel sulfite."
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Pra escrever o que deseja."
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Elemento de proteção, fácil de achar."
+    }
+  ],
+  "preparo": [
+    "Escolhe um cantinho da sua casa onde você possa fazer a simpatia em paz.",
+    "Acende a vela branca e pense na proteção que você deseja.",
+    "No papel branco, escreve: 'Proteção e paz estão comigo'.",
+    "Coloca o papel debaixo da vela e espalha um pouco de sal grosso ao redor.",
+    "Lê a declaração em voz alta, com fé e confiança.",
+    "Enterra o papel num vaso de planta da casa."
+  ],
+  "dia": "Segunda",
+  "dia_desc": "Dia da Lua, bom pra lidar com emoções e proteção.",
+  "lua": "Cheia",
+  "lua_desc": "A Lua Cheia potencializa a proteção.",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu estou protegida, cercada de luz e paz.\n\nNada de ruim me atinge, estou segura.\n\nMinha casa é um lugar de harmonia e proteção.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Enterra o papel num vaso de planta da casa",
+  "dicas": [
+    "Usa sempre um pouco de sal grosso nos cantos da casa pra reforçar a proteção.",
+    "Lembra de renovar essa simpatia sempre que sentir necessidade.",
+    "Confia na força da sua intenção, ela é poderosa."
+  ],
+  "frase_final": "Sua proteção é sua força, cuide bem dela.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Vera, essa simpatia é poderosa 🕯️ Pra reforçar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara seu campo antes da simpatia. Vai? 💜",
+  "nome": "Vera Lucia Aparecida de Jesus",
+  "primeiroNome": "Vera"
+}
