@@ -1,0 +1,54 @@
+{
+  "previa": "Dielma, tá difícil realizar seus sonhos, né? Vamos abrir esses caminhos e fazer as coisas darem certo de uma vez por todas!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Dielma! Sei que tá complicado quando a gente tenta e parece que nada vai pra frente. Vamos mudar isso agora com essa simpatia pra abrir os caminhos e deixar seus sonhos realizarem, tá bom?",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade e oportunidades"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para dar força às palavras"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Para abrir e limpar os caminhos"
+    },
+    {
+      "nome": "Um objeto pessoal",
+      "descricao": "Algo que represente seus sonhos"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, sem barulho, onde você possa se concentrar bem.",
+    "Acende a vela amarela e pensa nos caminhos se abrindo na sua vida.",
+    "No papel dourado, escreve todos os seus sonhos e objetivos, sem medo.",
+    "Coloca o alecrim em cima do papel e segura o objeto pessoal na mão.",
+    "Lê a declaração em voz alta, sentindo cada palavra com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, dia de expansão e crescimento",
+  "lua": "Crescente",
+  "lua_desc": "Boa para atrair e fazer crescer",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia tá começando e trazendo novas oportunidades",
+  "declaracao": "Eu abro os caminhos na minha vida agora.\n\nEu atraio as oportunidades que tanto desejo.\n\nMeus sonhos são fortes e possíveis. \n\nEu confio no meu caminho e sigo em frente sem medo.\n\nTudo que eu começo, eu concluo com sucesso e alegria.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Dielma, sempre que se sentir desanimada, relembre seus objetivos olhando para o papel.",
+    "Mantém mente positiva, fia, a energia boa atrai coisa boa.",
+    "Confia no processo e tenha paciência, as coisas vão se alinhar."
+  ],
+  "frase_final": "Os caminhos se abrem pra você, Dielma. Acredita e vai com tudo.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Dielma, essa simpatia vai te ajudar a abrir os caminhos! Pra dar um empurrãozinho a mais, te indico um Banho Energético por só R$ 9,98 que prepara tudo pra sua simpatia funcionar melhor. Vamos nessa? 🌟",
+  "nome": "Dielma Douetts Silva",
+  "primeiroNome": "Dielma"
+}
