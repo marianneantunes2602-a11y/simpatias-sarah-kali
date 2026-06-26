@@ -1,0 +1,50 @@
+{
+  "previa": "Tá em dúvida sobre mudar de emprego, Lenilson? Uma simpatia pra prosperidade pode te ajudar a abrir caminhos e tomar a decisão certa. Vamos fazer isso juntas, amiga!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Lenilson, minha flor, sei que a dúvida sobre mudar de emprego tá te deixando inquieta. Vamos abrir os caminhos da prosperidade pra iluminar sua decisão. Você vai encontrar a resposta certa, pode confiar!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e abertura de caminhos"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Concentra a intenção de abundância"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Para escrever com energia de ouro"
+    },
+    {
+      "nome": "Pétalas de girassol",
+      "descricao": "Atrai a boa sorte e clareza"
+    }
+  ],
+  "preparo": [
+    "Vai pra um lugar tranquilo, onde você possa ficar em paz.",
+    "Acende a vela amarela e mentaliza a prosperidade chegando.",
+    "Escreve no papel dourado o que deseja pra sua vida profissional.",
+    "Coloca as pétalas de girassol ao redor da vela.",
+    "Lê a declaração em voz alta, com força e confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta-feira",
+  "dia_desc": "Dia de Júpiter, que traz oportunidades e crescimento",
+  "lua": "Crescente",
+  "lua_desc": "Tempo de atrair novas oportunidades e prosperidade",
+  "horario": "Manhã",
+  "horario_desc": "Entre 8h e 10h, quando o dia começa a clarear",
+  "declaracao": "Eu chamo a prosperidade e a abundância para minha vida.\n\nAbro meus caminhos para novas oportunidades profissionais.\n\nA decisão certa sobre meu emprego se revela clara e luminosa.\n\nEu recebo crescimento e sucesso em tudo que faço.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Antes de fazer a simpatia, reflita sobre o que realmente deseja na sua carreira.",
+    "Se sentir um sinal claro durante a simpatia, leve em consideração na sua decisão.",
+    "Mantenha sua mente aberta a novas oportunidades após a simpatia."
+  ],
+  "frase_final": "A prosperidade ilumina suas decisões, trazendo clareza pro seu caminho.",
+  "upsell_produto": "Mapa Astral",
+  "upsell_mensagem": "Lenilson, essa simpatia vai te ajudar bastante ☀️ Pra entender melhor seu momento profissional, recomendo um Mapa Astral por só R$ 9,98. Vai te dar insights valiosos. Que tal? 💼",
+  "nome": "Lenilson Wisner Ferreira Lima",
+  "primeiroNome": "Lenilson"
+}
