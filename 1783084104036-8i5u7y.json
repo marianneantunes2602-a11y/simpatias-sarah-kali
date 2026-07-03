@@ -1,0 +1,54 @@
+{
+  "previa": "Tá se sentindo pesado, Luiz? Vamos aliviar essa carga e trazer de volta a leveza pro seu coração. Vou te ajudar com uma simpatia de descarrego pra deixar essa insegurança pra trás. Vem comigo!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Oi, Luiz! Eu sei que você tá passando por um momento difícil com essa crise de ansiedade. Fica tranquilo, tá? A Laurita tá do teu lado e vou te ajudar a aliviar esse sentimento ruim com uma simpatia de descarrego poderosa.",
+  "materiais": [
+    {
+      "nome": "Vela branca",
+      "descricao": "Símbolo de paz e limpeza"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Representa pureza e novos começos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Cor da tranquilidade"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para afastar energias ruins"
+    },
+    {
+      "nome": "Água",
+      "descricao": "Elemento de purificação"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo na sua casa, de preferência à noite, quando o silêncio toma conta.",
+    "Acenda a vela branca e diga: 'Que a luz desta vela traga paz ao meu coração'.",
+    "Escreva no papel: 'Deixo para trás a insegurança e a ansiedade'.",
+    "Coloque o papel embaixo do prato com a vela e salpique sal grosso por cima.",
+    "Leia em voz alta a declaração de descarrego.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "dia de Saturno, para limpeza e descarrego",
+  "lua": "Minguante",
+  "lua_desc": "ideal para cortar e eliminar energias negativas",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu agora libero e deixo ir toda a insegurança que me prende.\n\nChamo a tranquilidade para o meu coração e para o meu relacionamento com Laurita.\n\nRompo com as energias que me trazem ansiedade e recebo a paz no meu ser.\n\nA minha felicidade é real e eu aceito viver sem medo.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso)",
+  "dicas": [
+    "Conversa com a Laurita sobre seus sentimentos, ela te apoia.",
+    "Procura fazer atividades que acalmem sua mente como meditação.",
+    "Lembre-se que a crise foi um momento, não se prenda a ela."
+  ],
+  "frase_final": "Limpeza feita, coração leve! Agora é seguir em frente, Luiz.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Luiz, essa simpatia vai aliviar sua carga 🕯️ Pra potencializar, te indico um Banho Energético por só R$ 9,98 que ajuda a limpar ainda mais sua energia. Que tal? 💧",
+  "nome": "Luiz Fernando Rosa De Mello",
+  "primeiroNome": "Luiz"
+}
