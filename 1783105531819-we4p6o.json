@@ -1,0 +1,54 @@
+{
+  "previa": "Higor, você tá batalhando pra acertar a vida financeira, né? As coisas tão meio emperradas, mas vamos dar um jeito nisso com essa simpatia poderosa de prosperidade.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Higor, meu querido, eu sei que a parte financeira tá complicada, parece que nada engrena, né? Mas não se preocupa, essa simpatia vai abrir os caminhos pra você.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Pra atrair prosperidade"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Pra escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Pra reforçar a escrita"
+    },
+    {
+      "nome": "Folhas de louro",
+      "descricao": "Pra trazer sorte e fortuna"
+    },
+    {
+      "nome": "Pedaço de fita verde",
+      "descricao": "Pra simbolizar o crescimento"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar calmo e tranquilo, sem barulho.",
+    "Acenda a vela amarela, pensando na prosperidade que deseja.",
+    "Escreva no papel dourado suas intenções financeiras, tudo que você quer alcançar.",
+    "Coloque as folhas de louro sobre o papel e amarre com a fita verde.",
+    "Com firmeza, leia a declaração em voz alta.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, associado à prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "pra atrair crescimento e boas oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia começa e a energia está renovada",
+  "declaracao": "Eu, Higor, abro meus caminhos para a abundância e prosperidade.\n\nEu decreto que minhas finanças encontram equilíbrio e harmonia.\n\nTudo que eu faço traz bons frutos e recompensas justas.\n\nAtrai riqueza, oportunidades e sucesso para minha vida.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Reflita sobre suas prioridades financeiras, Higor.",
+    "Tente encontrar um padrão nos seus gastos e veja onde pode ajustar.",
+    "Mantenha pensamentos positivos sobre dinheiro, a mente também atrai."
+  ],
+  "frase_final": "Prosperidade vem quando a gente planta boas sementes.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Higor, essa simpatia vai te ajudar muito. Pra dar um reforço, que tal um Banho Energético por só R$ 9,98? Ele ajuda a limpar as energias e preparar o caminho. Vamos nessa? 🌿",
+  "nome": "Higor Alberto Nagles",
+  "primeiroNome": "Higor"
+}
