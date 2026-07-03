@@ -1,0 +1,50 @@
+{
+  "previa": "Quer atrair um novo amor pra sua vida, Bruna? Tenho a simpatia certa pra você! Com passos simples e materiais fáceis de encontrar, você vai abrir os caminhos do coração e chamar aquele amor tão sonhado.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Bruna, minha flor, eu sei que você tá buscando um novo amor. Vamos dar um jeito nisso juntas, tá? O coração merece estar aberto e pronto pra receber tudo de bom que o amor pode oferecer. Vamos preparar o terreno!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela rosa"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel cor-de-rosa"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha"
+    },
+    {
+      "nome": "Pétalas",
+      "descricao": "Pétalas de rosa"
+    }
+  ],
+  "preparo": [
+    "Encontra um lugar tranquilo e escuro na sua casa.",
+    "Acende a vela rosa e diz: 'Chamo o amor para minha vida.'",
+    "Escreve no papel cor-de-rosa: 'Eu atraio um novo amor de verdade.'",
+    "Coloca as pétalas de rosa ao redor da vela.",
+    "Lê em voz alta a declaração que tá no papel.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta-feira",
+  "dia_desc": "dia de Vênus, ideal para amor",
+  "lua": "Crescente",
+  "lua_desc": "perfeita para atrair e crescer",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo um novo amor para minha vida.\n\nQue este amor seja verdadeiro, puro e alegre.\n\nEstou aberta para receber todo o carinho e a felicidade que o amor traz.\n\nEu decreto que o amor chega até mim agora.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Faz essa simpatia numa noite tranquila, sem distrações.",
+    "Põe uma música suave pra criar o ambiente.",
+    "Visualiza o amor chegando até você enquanto segura a vela."
+  ],
+  "frase_final": "O amor já tá no caminho pra você, Bruna.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Bruna, essa simpatia é poderosa 🕯️ Pra entender melhor o amor que tá vindo, te indico um Mapa do Amor por só R$ 9,98. Que tal descobrir ainda mais? 💖",
+  "nome": "Bruna Simon piona da Silva",
+  "primeiroNome": "Bruna"
+}
