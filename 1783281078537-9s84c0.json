@@ -1,0 +1,54 @@
+{
+  "previa": "Sandra, se você quer trazer o amor de Antônio de volta, essa simpatia é pra você. Com a força das velas e a intenção certa, vamos trabalhar para reacender esse amor que ainda existe entre vocês.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Oi, Sandra! Eu sei que a situação com o Antônio tá mexendo com seu coração. Ele voltou com a ex, mas vocês continuam se encontrando, né? Vamos dar uma força pra trazer esse amor de volta.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Representa a paixão e o amor"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Pra escrever seus desejos"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Combinando com a intenção"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Símbolo do amor"
+    },
+    {
+      "nome": "Objeto pessoal",
+      "descricao": "Algo que lembra o Antônio"
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar tranquilo, acenda a vela vermelha e sinta a energia do amor.",
+    "Com a caneta vermelha, escreva no papel rosa: 'Antônio, nosso amor é forte e verdadeiro.'",
+    "Coloque as pétalas de rosa ao redor da vela.",
+    "Segura o objeto que lembra o Antônio e pense nos momentos bons.",
+    "Leia em voz alta: Eu chamo o coração do Antônio de volta pra mim. Nosso amor é forte e verdadeiro.",
+    "Carrega o papel na carteira até a próxima sexta"
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, perfeito para amor",
+  "lua": "Crescente",
+  "lua_desc": "para atrair e fortalecer",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o coração do Antônio de volta pra mim.\n\nNosso amor é forte e verdadeiro.\n\nNada pode nos separar.\n\nEu acredito no nosso destino juntos.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Evite discutir com o Antônio, mantenha a calma.",
+    "Relembre momentos bons que passaram juntos quando estiver com ele.",
+    "Use uma roupa que ele goste quando forem se encontrar."
+  ],
+  "frase_final": "O amor entre vocês vai ganhar nova força.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Sandra, essa simpatia tem poder! Pra entender melhor a dinâmica entre você e Antônio, te indico um Mapa do Amor por só R$ 9,98. Te ajuda a ver o caminho. Quer tentar? 💖",
+  "nome": "Sandra Moreira dos Santos",
+  "primeiroNome": "Sandra"
+}
