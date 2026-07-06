@@ -1,0 +1,50 @@
+{
+  "previa": "Gabriela, pra desamarrar esses nós na hora de falar e negociar, a gente vai preparar uma simpatia poderosa pra abrir esses caminhos e soltar sua voz. Vem comigo que a gente resolve isso.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Coragem",
+  "saudacao": "Oi Gabriela, eu sei que tá difícil soltar as palavras e se fazer entender nas palestras e negociações. Mas vamos com calma que a gente vai abrir esses caminhos e deixar sua voz mais forte, tá bom?",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "A cor da coragem e da ação"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para firmar suas intenções"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para purificar e fortalecer"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar tranquilo, sem barulho, e apaga as luzes.",
+    "Acende a vela vermelha, visualizando teus caminhos se abrindo.",
+    "Escreve no papel: 'Eu sou clara e corajosa ao falar e negociar'.",
+    "Coloca um punhado de sal grosso ao lado da vela.",
+    "Lê em voz alta a declaração de coragem e firmeza que vem do teu coração.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Terça",
+  "dia_desc": "Dia de Marte, pra ação e coragem",
+  "lua": "Crescente",
+  "lua_desc": "Pra trazer crescimento e abertura",
+  "horario": "Manhã",
+  "horario_desc": "Quando o dia tá começando, cheio de energia nova",
+  "declaracao": "Eu decreto que minha voz é forte e clara.\n\nEu falo com confiança e segurança.\n\nMinhas palavras são entendidas e respeitadas.\n\nEu sou capaz de negociar e me expressar com clareza.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Antes de começar uma palestra, respira fundo e visualiza teu caminho aberto.",
+    "Pratica falar em frente ao espelho, isso ajuda a soltar a voz.",
+    "Antes de negociar, passa um pouco de sal grosso na palma da mão, pra dar segurança."
+  ],
+  "frase_final": "Sua voz será clara e forte, Gabriela.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Gabriela, essa simpatia vai te ajudar a soltar a voz. Pra potencializar ainda mais, te recomendo um Banho Energético por só R$ 9,98. Quer experimentar?",
+  "nome": "Gabriela Cordeiro dos Reis",
+  "primeiroNome": "Gabriela"
+}
