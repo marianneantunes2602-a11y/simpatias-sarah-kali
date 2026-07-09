@@ -1,0 +1,50 @@
+{
+  "previa": "Tá difícil equilibrar as contas, né, Dulcilene? Vamos chamar a prosperidade pra perto de você com uma simpatia poderosa. Simples de fazer e com materiais fáceis de encontrar!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Dulcilene! Eu sei que você tá passando por um aperto financeiro. Vamos usar a força dessa simpatia pra abrir os caminhos e chamar a prosperidade pra sua vida. Confia e faz direitinho, tá bom?",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Representa a prosperidade e a abertura de caminhos."
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Pra escrever seu pedido de prosperidade."
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Cor que atrai boas energias e sorte."
+    },
+    {
+      "nome": "Punhado de sal grosso",
+      "descricao": "Pra purificar e limpar o caminho."
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso.",
+    "Acenda a vela amarela e diga: 'Chamo a prosperidade pra minha vida.'",
+    "Escreva no papel: 'Eu, Dulcilene, atraio prosperidade e abundância.'",
+    "Coloque o sal grosso sobre o papel.",
+    "Com o coração aberto, leia a declaração em voz alta.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, propício para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "atrai crescimento e riqueza",
+  "horario": "Manhã",
+  "horario_desc": "no começo do dia, quando a energia é nova",
+  "declaracao": "Eu, Dulcilene, atraio prosperidade e abundância pra minha vida.\n\nChamo caminhos abertos, oportunidades e soluções para meus problemas financeiros.\n\nAgradeço pela fartura que vem pra mim e para minha família.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Repita a simpatia na próxima lua crescente pra reforçar.",
+    "Mantenha a fé e a mentalidade positiva, mesmo nos dias difíceis.",
+    "Anote suas despesas e ganhos pra ter mais controle."
+  ],
+  "frase_final": "Prosperidade é questão de força e foco, Dulcilene.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Dulcilene, essa simpatia é poderosa 🕯️ Pra reforçar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💛",
+  "nome": "Dulcilene Paulo da Silva",
+  "primeiroNome": "Dulcilene"
+}
