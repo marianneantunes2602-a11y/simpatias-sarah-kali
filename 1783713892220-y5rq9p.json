@@ -1,0 +1,50 @@
+{
+  "previa": "Tá querendo liberar aquele dinheiro preso? Vamos fazer uma simpatia poderosa pra abrir os caminhos e o dinheiro fluir até você. Vamos lá, Adriani!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Adriani, minha flor, sei que seu dinheiro tá preso com a Elizete e isso tá te apertando. Vamos liberar esse bloqueio e chamar esse dinheiro de volta, pra você poder pagar suas contas com tranquilidade. Vamos juntas nessa!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Vela comum de mercado"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Folha de sulfite"
+    },
+    {
+      "nome": "Caneta verde",
+      "descricao": "Para escrever no papel"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Ramo de alecrim seco"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo e acende a vela amarela.",
+    "Concentra na chama e diz: 'Eu abro os caminhos da prosperidade'.",
+    "Escreve no papel: 'Eu libero o dinheiro que está com Elizete'.",
+    "Coloca o alecrim sobre o papel, simbolizando a abertura.",
+    "Lê em voz alta: Eu chamo a prosperidade e libero os caminhos.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal pra prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "pra atrair prosperidade e abrir caminhos",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia começa e a energia tá fresca",
+  "declaracao": "Eu abro os caminhos para o dinheiro fluir até mim.\n\nLibero Elizete dos bloqueios que prendem meu dinheiro.\n\nChamo a prosperidade para minha vida agora.\n\nMeu dinheiro volta pra mim, livre e desbloqueado.\n\nDecreto que todas as barreiras caem agora.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que falar com Elizete, mantenha a mente positiva e aberta.",
+    "Visualize o dinheiro chegando quando meditar ou rezar.",
+    "Confia que os caminhos estão se abrindo pra você."
+  ],
+  "frase_final": "Deixe a prosperidade fluir e libere o que está preso.",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Adriani, essa simpatia é poderosa! Pra firmar ainda mais, um Mapa Anual pode te mostrar os melhores momentos financeiros por só R$ 9,98. Quer ver? 💰",
+  "nome": "Adriani Löwe Marques",
+  "primeiroNome": "Adriani"
+}
