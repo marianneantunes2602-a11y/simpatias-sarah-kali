@@ -1,0 +1,50 @@
+{
+  "previa": "Maria, sinto que seus caminhos estão parados, né? Vamos abrir essa estrada e deixar tudo fluir com uma simpatia poderosa de prosperidade! Com poucos materiais, você vai trazer a energia certa pra sua vida e ver as coisas começarem a andar de novo.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Maria, minha flor, sei que tá difícil ver as coisas andarem. Parece que tudo parou, né? Mas não se preocupa, porque com essa simpatia vamos abrir seus caminhos e deixar a prosperidade entrar na sua vida.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever suas intenções"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para dar força às palavras"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Elemento de limpeza e proteção"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar calmo e silencioso na sua casa.",
+    "Acenda a vela amarela e peça que ela ilumine seus caminhos.",
+    "No papel branco, escreva: 'Meus caminhos estão abertos para a prosperidade e o sucesso'.",
+    "Coloque um pouco de sal grosso em cima do papel enquanto mentaliza seus desejos.",
+    "Leia em voz alta a declaração com convicção.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Quinta-feira, o dia de Júpiter, que traz crescimento e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Momento ideal para atrair e expandir",
+  "horario": "Manhã",
+  "horario_desc": "pela manhã, quando o sol traz nova energia",
+  "declaracao": "Eu abro meus caminhos agora.\n\nA prosperidade vem na minha direção.\n\nEu recebo oportunidades e sucesso.\n\nA estagnação se dissolve e tudo flui.\n\nEu vejo as portas se abrindo pra mim.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Mantenha a fé nos seus objetivos, mesmo quando parecer difícil.",
+    "Tire um tempo todo dia pra visualizar seus caminhos abertos.",
+    "Evite falar negativamente sobre seus planos, isso fecha energia."
+  ],
+  "frase_final": "Abra seus caminhos com essa simpatia e veja a mudança!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Maria, essa simpatia vai abrir seus caminhos! Pra turbinar ainda mais as suas oportunidades, te indico um Mapa Anual por só R$ 9,98 que vai mostrar tendências e melhores momentos pra agir. Vai querer? 🌟",
+  "nome": "Maria Elizabeth Vieira de Miranda",
+  "primeiroNome": "Maria"
+}
