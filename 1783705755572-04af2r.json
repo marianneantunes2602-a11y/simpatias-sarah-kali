@@ -1,0 +1,50 @@
+{
+  "previa": "Natália, vamos atrair a prosperidade pra sua vida? Com essa simpatia simples, você chama o dinheiro e abre as portas pra que ele multiplique na sua vida. Vem cá, que te ensino como fazer!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Natália, tá querendo ver o dinheiro chegar e multiplicar, né? Sei bem como o bolso tá apertado e as contas não param de aparecer. Vamos abrir o caminho pra prosperidade entrar na sua vida!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "A vela vai atrair a energia da prosperidade."
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Para escrever seu pedido de prosperidade."
+    },
+    {
+      "nome": "Caneta verde",
+      "descricao": "Símbolo de crescimento e dinheiro."
+    },
+    {
+      "nome": "Folhas de louro",
+      "descricao": "Trazem sorte e fartura."
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso na sua casa.",
+    "Acenda a vela amarela e firme o pensamento na prosperidade.",
+    "No papel amarelo, escreva: 'Dinheiro, venha e multiplique na minha vida'.",
+    "Coloque as folhas de louro em cima do papel, imaginando muito dinheiro chegando.",
+    "Leia a declaração em voz alta, com confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ótimo pra chamar prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "é tempo de atrair e crescer",
+  "horario": "Manhã",
+  "horario_desc": "antes das 10h, quando o dia começa a crescer",
+  "declaracao": "Eu chamo a prosperidade para minha vida agora.\n\nEu decreto que o dinheiro vem até mim e multiplica.\n\nMinhas contas são pagas com facilidade e sobra muito.\n\nO dinheiro flui livremente pra minha carteira e minha casa.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Natália, coloca uma moeda junto ao papel na carteira pra potencializar a energia.",
+    "Sempre que passar por uma árvore ou planta, mentaliza o dinheiro crescendo como ela.",
+    "Evita gastar por impulso, mesmo com a simpatia feita. Controle é importante."
+  ],
+  "frase_final": "A fortuna tá batendo na sua porta, Natália!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Natália, essa simpatia vai trazer prosperidade 🌟 Pra fortalecer ainda mais, te indico um Banho Energético por só R$ 9,98 que vai abrir teus caminhos antes da simpatia. Vai querer?",
+  "nome": "Natália Kelly Silva Nascimento",
+  "primeiroNome": "Natália"
+}
