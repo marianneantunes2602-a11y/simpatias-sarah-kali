@@ -1,0 +1,50 @@
+{
+  "previa": "Roselene, sei que tá difícil, parece que ninguém te enxerga. Vamos mudar isso com uma simpatia poderosa pra atrair prosperidade de verdade. Confia que a maré vai virar.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Roselene! Eu sei que tá difícil, parece que ninguém te enxerga e nada flui nas tuas vendas. Não desanima não, amiga. Vamos dar um jeito de abrir os caminhos e trazer a prosperidade pra tua vida.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Pra atrair prosperidade"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Pra escrever tuas intenções"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Representa riqueza e brilho"
+    },
+    {
+      "nome": "Pitada de canela",
+      "descricao": "Conhecida por atrair dinheiro"
+    }
+  ],
+  "preparo": [
+    "Encontra um lugar tranquilo na tua casa, onde ninguém vá te incomodar.",
+    "Acende a vela amarela e pensa nas riquezas que deseja atrair.",
+    "Escreve no papel: 'Sou visível para a prosperidade, o dinheiro chega até mim'.",
+    "Coloca a pitada de canela em cima do papel.",
+    "Lê a declaração em voz alta, sentindo o poder das palavras.",
+    "Carrega o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, dia de expansão e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Ideal pra atrair o que você deseja",
+  "horario": "Manhã",
+  "horario_desc": "quando o Sol ainda tá nascendo e trazendo luz",
+  "declaracao": "Eu sou visível para a prosperidade.\n\nO dinheiro chega até mim com facilidade.\n\nMinhas mercadorias brilham e são vistas por todos.\n\nEu atraio vendas e sucesso.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Toda manhã, antes de começar o dia, mentaliza tuas metas.",
+    "Usa a canela também nos bolsos quando sair pra vender.",
+    "Sempre que postar algo, afirma que será um sucesso."
+  ],
+  "frase_final": "A prosperidade te encontra, Roselene, confia!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Roselene, essa simpatia é só o começo. Que tal um Banho Energético por R$ 9,98 pra potencializar tua prosperidade e abrir ainda mais caminhos? Vai mudar teu astral! 🌟",
+  "nome": "Roselene Tenório da Silva",
+  "primeiroNome": "Roselene"
+}
