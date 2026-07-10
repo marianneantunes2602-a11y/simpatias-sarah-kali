@@ -1,0 +1,54 @@
+{
+  "previa": "Diranilce, tá querendo dar uma turbinada nas vendas? Bora abrir esses caminhos e atrair mais clientes! Com essa simpatia de prosperidade, você vai conseguir vender seus produtos mais rápido e sentir a mudança chegando. Se prepara e vamos lá!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi Diranilce! Vender mais e mais rápido é o que você tá precisando, né? Vamos dar aquela força para abrir os caminhos e atrair mais clientes para seus produtos. Confia e segue direitinho que tudo vai fluir!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Amarela ou dourada"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Amarelo ou branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Dourada ou azul"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Um punhado"
+    },
+    {
+      "nome": "Uma moeda",
+      "descricao": "De qualquer valor, para simbolizar riqueza"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo onde você não seja incomodada.",
+    "Acende a vela amarela ou dourada e diz: 'Atraio a prosperidade para mim'.",
+    "Escreve no papel: 'Meus produtos são desejados e vendidos'.",
+    "Coloca o alecrim e a moeda sobre o papel.",
+    "Lê a declaração em voz alta com força e fé.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "para atrair vendas e clientes",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol nascer, trazendo novas energias",
+  "declaracao": "Eu decreto que meus caminhos estão abertos \n\nAtraio clientes que desejam e compram meus produtos \n\nA prosperidade me envolve e me abençoa \n\nMeus produtos vendem rapidamente e em abundância \n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Deixa sempre seu espaço de trabalho organizado para atrair boas energias.",
+    "Investe em pequenas promoções para chamar atenção dos clientes.",
+    "Usa as redes sociais para divulgar seus produtos e aumentar as vendas."
+  ],
+  "frase_final": "Abra os caminhos e sinta a prosperidade chegando.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Diranilce, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Diranilce Costa",
+  "primeiroNome": "Diranilce"
+}
