@@ -1,0 +1,54 @@
+{
+  "previa": "Gilseleia, tá difícil ver as oportunidades escaparem, né? Vamos abrir seus caminhos e dar um jeito nessa situação. Com essa simpatia, você vai chamar boas energias e deixar que tudo flua a seu favor.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Gilseleia! Eu sei que a situação tá complicada, vendo os outros passando na frente. Vamos clarear esses caminhos e abrir novas portas pra você sair desse aperto. Confia em mim, vamos juntas mudar esse cenário.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Vela comum, ajuda a abrir caminhos"
+    },
+    {
+      "nome": "Papel sulfite",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para dar força às suas palavras"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para purificar e afastar energia ruim"
+    },
+    {
+      "nome": "Folha de louro",
+      "descricao": "Símbolo de vitória e sucesso"
+    }
+  ],
+  "preparo": [
+    "Escolha um lugar tranquilo e escuro da sua casa.",
+    "Acenda a vela amarela, pedindo abertura de caminhos.",
+    "Escreva no papel seus desejos de oportunidades e crescimento.",
+    "Coloque a folha de louro junto com o papel e o sal grosso ao lado da vela.",
+    "Leia a declaração em voz alta com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "quando a lua tá crescendo, pra atrair oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "cedinho, quando o dia tá começando",
+  "declaracao": "Eu abro meus caminhos para a prosperidade.\n\nQue as oportunidades me encontrem, reconhecendo meu valor.\n\nEu sou merecedora de crescimento e sucesso.\n\nNada e ninguém vai impedir meu avanço.\n\nMeu caminho está iluminado e limpo.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Mantenha seu espaço de trabalho organizado para ajudar as energias fluirem melhor.",
+    "Evite falar sobre seus planos com pessoas do trabalho, especialmente seu chefe.",
+    "Tire um tempinho toda manhã pra mentalizar seus desejos se realizando."
+  ],
+  "frase_final": "Gilseleia, abra o caminho e deixe a prosperidade entrar.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Gilseleia, essa simpatia vai abrir seus caminhos. Pra reforçar ainda mais, te indico um Banho Energético por só R$ 9,98 que limpa e prepara sua energia para o sucesso. Vai querer? 🌟",
+  "nome": "Gilseleia Paes Leme Xavier da Rocha",
+  "primeiroNome": "Gilseleia"
+}
