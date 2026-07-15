@@ -1,0 +1,54 @@
+{
+  "previa": "Oi, Poliane! Parece que você tá precisando dar uma limpada na energia, né? Tô aqui pra te ajudar com uma simpatia poderosa que vai renovar suas forças e tirar o que não presta do seu caminho.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Descarrego",
+  "saudacao": "Poliane, minha flor, sei que às vezes a energia pesa e dá aquela sensação de cansaço sem motivo. Vamos fazer uma limpeza poderosa pra tirar tudo de ruim e abrir espaço pras coisas boas, tá? Vamos juntas nessa!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Branca, para limpeza"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Branco, para absorver energias"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Azul, para escrever o que precisa ser limpo"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado para purificação"
+    },
+    {
+      "nome": "Água",
+      "descricao": "Um copo para energizar"
+    }
+  ],
+  "preparo": [
+    "Procura um lugar quieto e tranquilo em casa.",
+    "Acende a vela branca e pede que ela leve embora toda energia ruim.",
+    "Escreve no papel tudo que te cansa e precisa ser limpo.",
+    "Coloca o papel e o sal grosso dentro do copo com água.",
+    "Lê a declaração em voz alta, sentindo a limpeza acontecer.",
+    "Joga o papel rasgado em água corrente (pode ser pia ou vaso)."
+  ],
+  "dia": "Sábado",
+  "dia_desc": "Dia de Saturno, perfeito para cortar e limpar",
+  "lua": "Minguante",
+  "lua_desc": "Lua ideal para eliminar e purificar",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu decreto que toda energia negativa sai da minha vida\n\nMinha casa e meu ser são purificados\n\nA água leva embora tudo que não me serve mais\n\nSinto a leveza e a paz voltando\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Joga o papel rasgado em água corrente (pode ser pia ou vaso)",
+  "dicas": [
+    "Depois da simpatia, toma um banho relaxante pra ajudar a limpar.",
+    "Usa um incenso de lavanda pra purificar o ambiente.",
+    "Evita brigas e discussões por uns dias, deixa o ambiente leve."
+  ],
+  "frase_final": "Limpeza feita, energia renovada, Poliane!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Poliane, essa simpatia vai te ajudar a renovar a energia 🕯️ Pra potencializar ainda mais, te indico um Banho Energético por só R$ 9,98. Vai dar uma força extra na tua limpeza. Topa? 💧",
+  "nome": "Poliane Tamires da costa santos",
+  "primeiroNome": "Poliane"
+}
