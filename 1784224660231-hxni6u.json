@@ -1,0 +1,50 @@
+{
+  "previa": "Tá difícil fazer o dinheiro chegar, né? Vamos atrair prosperidade e abrir os caminhos financeiros com essa simpatia poderosa pra você, Marcelo. Vamos juntos mudar essa situação!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Marcelo! Sei como tá duro ver o dinheiro não dar conta das contas. Vamos atrair prosperidade e fazer o dinheiro fluir na sua vida. Com fé e determinação, essa maré vira!",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "para atrair riqueza"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "para escrever seu pedido"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "para dar força ao seu desejo"
+    },
+    {
+      "nome": "Folhas de louro",
+      "descricao": "símbolo da abundância"
+    }
+  ],
+  "preparo": [
+    "Procure um lugar tranquilo, sem barulho e bem iluminado.",
+    "Acenda a vela amarela e diga: 'A luz da prosperidade ilumina meu caminho'.",
+    "Escreva no papel: 'Dinheiro e fartura vêm a mim, Marcelo, em abundância'.",
+    "Coloque o papel embaixo da vela e espalhe as folhas de louro ao redor.",
+    "Leia a declaração em voz alta, com confiança.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, propício pra abundância e expansão",
+  "lua": "Crescente",
+  "lua_desc": "perfeita pra atrair e aumentar o fluxo de dinheiro",
+  "horario": "Manhã",
+  "horario_desc": "cedinho, quando o dia está começando",
+  "declaracao": "Eu, Marcelo, abro as portas da prosperidade na minha vida.\n\nDinheiro e fartura fluem para mim em abundância.\n\nEu atraio ganhos inesperados e soluções financeiras.\n\nMinha família tem o melhor e minhas contas são pagas em dia.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Organiza suas finanças e veja onde pode economizar.",
+    "Pense em novas formas de renda, pode ser um projeto ou bico.",
+    "Confie na simpatia e visualize o dinheiro chegando para você."
+  ],
+  "frase_final": "A prosperidade vem quando a gente acredita e faz por onde.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Marcelo, essa simpatia é poderosa! Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💛",
+  "nome": "Marcelo ubiratan dumerque rios",
+  "primeiroNome": "Marcelo"
+}
