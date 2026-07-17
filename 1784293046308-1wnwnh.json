@@ -1,0 +1,54 @@
+{
+  "previa": "Tizianni, tá difícil se encaixar, né? Mas não desanima. Tenho uma simpatia de prosperidade pra você, que vai ajudar a atrair coisas boas pra sua vida. Bora virar esse jogo?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Tizianni! Eu sei que você saiu do emprego e tá complicado encontrar um lugar que faça você se sentir bem. Vamos fazer uma simpatia poderosa pra trazer prosperidade e abrir os caminhos. Confia que, com foco e essa ajudinha, a mudança vem.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Simboliza a prosperidade e abertura de caminhos"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Onde você vai escrever seus desejos"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Para escrever com intenção de abundância"
+    },
+    {
+      "nome": "Pétalas de girassol",
+      "descricao": "Representam a energia positiva do sol"
+    },
+    {
+      "nome": "Moeda",
+      "descricao": "Um símbolo de abundância e riqueza"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo e silencioso, onde você possa se concentrar.",
+    "Acende a vela amarela, focando na luz que ela traz pro teu caminho.",
+    "Escreve no papel: 'Eu, Tizianni, abro meus caminhos para a prosperidade.'",
+    "Coloca a moeda sobre o papel, cercada pelas pétalas de girassol.",
+    "Lê a declaração em voz alta, com força e certeza.",
+    "Guarda o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta-feira",
+  "dia_desc": "associado à prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "Atração e crescimento",
+  "horario": "Manhã",
+  "horario_desc": "quando o sol nasce, trazendo novas oportunidades",
+  "declaracao": "Eu, Tizianni, decreto que minha vida está aberta para a prosperidade.\n\nEu atraio boas oportunidades de trabalho.\n\nEu recebo abundância em todos os aspectos da minha vida.\n\nAlessandro e Vitor, reconheço o que cada um traz, mas eu foco na minha felicidade.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Tizianni, confia na sua intuição ao buscar novas oportunidades de trabalho.",
+    "Sempre que puder, agradeça pelas pequenas vitórias, elas constroem o caminho pra maiores.",
+    "Mantenha-se conectada com quem te faz bem, mesmo à distância."
+  ],
+  "frase_final": "Sua prosperidade está a um passo, basta acreditar de verdade.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Tizianni, essa simpatia é poderosa para abrir caminhos. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💛",
+  "nome": "Tizianni moreira de Araújo",
+  "primeiroNome": "Tizianni"
+}
