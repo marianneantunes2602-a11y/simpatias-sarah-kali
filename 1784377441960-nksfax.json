@@ -1,0 +1,54 @@
+{
+  "previa": "Brenda, minhas simpatias são fortes e diretas. Vamos abrir seus caminhos de uma vez por todas, deixando as brigas para trás. Confia que vai dar certo!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Brenda, minha flor, sei que essas brigas constantes estão te desgastando. A minha simpatia vai te ajudar a renovar as energias e trazer a harmonia de volta pro seu relacionamento.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Para acender e trazer reconciliação"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever seu nome e o dele"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para simbolizar o amor"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Para purificar e proteger"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, onde ninguém vai te incomodar.",
+    "Acende a vela vermelha e olha a chama pensando na reconciliação.",
+    "Escreve seu nome e o nome dele no papel branco.",
+    "Coloca as pétalas de rosa e um pouco de sal grosso sobre o papel.",
+    "Lê a declaração em voz alta com fé.",
+    "Carrega o papel na carteira até a próxima sexta."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para o amor e reconciliação",
+  "lua": "Crescente",
+  "lua_desc": "perfeita para atrair de volta o que está distante",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu decreto que o amor entre mim e você, [nome dele], se renova agora.\n\nEu rompo as barreiras das brigas e atraio a harmonia.\n\nAs mudanças de comportamento acabam e o entendimento cresce.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Quando ele se mostrar estranho, mantenha a calma e converse.",
+    "Evite discussões durante a simpatia, mantenha a energia em paz.",
+    "Faça uma caminhada ao ar livre, ajuda a clarear a mente."
+  ],
+  "frase_final": "Abra o caminho para o amor vibrar forte entre vocês.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Brenda, essa simpatia é poderosa. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Brenda da Silva Barbosa",
+  "primeiroNome": "Brenda"
+}
