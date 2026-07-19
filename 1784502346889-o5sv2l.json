@@ -1,0 +1,54 @@
+{
+  "previa": "Quer unir-se novamente à sua ex? Vou te ajudar com uma simpatia poderosa pra trazer ela de volta pro seu lado. É fácil de fazer e você só vai precisar de alguns itens simples. Vamos lá!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Oi, Helder. Sei que você tá querendo reconquistar sua ex, né? Essa simpatia vai te ajudar a trazer ela de volta pro seu lado, com o coração aberto. Vamos colocar essa intenção em prática, minha flor.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha, simboliza o amor e a reconciliação"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco pra escrever os nomes"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha, cor do amor"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Rosa vermelha, pra atrair amor"
+    },
+    {
+      "nome": "Foto",
+      "descricao": "Uma foto de vocês dois juntos, se tiver"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo e silencioso na sua casa.",
+    "Acende a vela vermelha, chamando o amor de volta.",
+    "Escreva o seu nome e o da sua ex no papel.",
+    "Coloque o papel debaixo da vela, junto com as pétalas.",
+    "Segura a foto de vocês dois e lê a declaração em voz alta.",
+    "Carrega o papel na carteira até a próxima sexta."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, propício para o amor e reconciliação",
+  "lua": "Crescente",
+  "lua_desc": "fase boa pra trazer de volta aquilo que você deseja",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o ambiente acalma",
+  "declaracao": "Eu chamo o coração da minha ex de volta pra mim\n\nEu decreto que nosso amor se fortalece e se reconstrói\n\nEu vejo a união nossa cada dia mais forte e presente\n\nNosso laço cresce e se renova com amor e alegria\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Tenta lembrar do que uniu vocês no início.",
+    "Pensa em conversas sinceras e coração aberto quando ela voltar.",
+    "Evita discutir ou tocar em assuntos do passado agora."
+  ],
+  "frase_final": "Amor de volta é coração aquecido, Helder. Vai firme!",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Helder, essa simpatia vai te ajudar. Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu coração pra reconciliação. Vai? ❤️",
+  "nome": "Helder Cabral",
+  "primeiroNome": "Helder"
+}
