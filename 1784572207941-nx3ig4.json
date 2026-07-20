@@ -1,0 +1,54 @@
+{
+  "previa": "Solange, vamos abrir os caminhos para você conseguir comprar seu caminhão novo. Essa simpatia é simples e poderosa, ideal pra te ajudar a superar esses obstáculos e finalmente colocar as mãos no seu sonho.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Solange! Eu sei como é frustrante ver o caminhão novo escapando das suas mãos quando parece que tá tão perto. Vamos abrir esses caminhos e fazer seu sonho virar realidade. Confia, vai dar certo!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela, pra atrair prosperidade"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco, pra escrever suas intenções"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado pra limpeza e abertura"
+    },
+    {
+      "nome": "Objeto pessoal",
+      "descricao": "Uma chave, pra simbolizar a abertura"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso, onde você possa se concentrar.",
+    "Acenda a vela amarela e visualize os caminhos se abrindo pra você.",
+    "No papel, escreva: 'Eu, Solange, atraio meu caminhão novo'.",
+    "Coloque o papel debaixo da chave e rodeie tudo com sal grosso.",
+    "Em voz alta, leia a declaração: 'Eu atraio prosperidade e a chegada do meu novo caminhão'.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, dia de prosperidade e expansão",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair e abrir caminhos",
+  "horario": "Manhã",
+  "horario_desc": "assim que o dia começa, trazendo novas oportunidades",
+  "declaracao": "Eu, Solange, decreto que os caminhos do sucesso se abrem para mim.\n\nO caminhão dos meus sonhos vem até mim com facilidade.\n\nOs obstáculos desaparecem e as oportunidades surgem.\n\nEu atraio prosperidade e abundância em minha vida.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Solange, mantenha sempre uma atitude positiva e confiante durante o processo de compra.",
+    "Verifique outras opções de financiamentos e não desista se o preço aumentar.",
+    "Anuncie o seu caminhão usado em diferentes plataformas para aumentar as chances de venda."
+  ],
+  "frase_final": "Os caminhos para o seu caminhão novo estão se abrindo, Solange.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Solange, essa simpatia é poderosa 🕯️ Para firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Solange Veloso Santos Coelho",
+  "primeiroNome": "Solange"
+}
