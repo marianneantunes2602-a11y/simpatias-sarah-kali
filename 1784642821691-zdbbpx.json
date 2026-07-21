@@ -1,0 +1,50 @@
+{
+  "previa": "Tá sentindo o namorado distante, Lidiana? Vem cá, vou te ajudar a deixar ele mais pertinho de você. Dá pra trazer aquele calorzinho de volta com uma simpatia de amor poderosa.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Lidiana, sei que tá sentindo seu namorado meio distante, né? Vamos trazer ele de volta, mais perto e grudado. Essa simpatia é tiro e queda pra aquecer o coração dele e fazer ele voltar a se encantar por você.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela rosa, o poder do amor"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel rosa, pra escrever seu desejo"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha, cor da paixão"
+    },
+    {
+      "nome": "Pétalas",
+      "descricao": "Pétalas de rosa, pra atrair carinho"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo, à noite, quando o silêncio chega.",
+    "Acende a vela rosa, pensando no calor do amor.",
+    "No papel rosa, escreve seu nome e o dele, lado a lado.",
+    "Espalha as pétalas ao redor da vela, formando um círculo.",
+    "Com fervor, lê em voz alta a declaração que tá no coração.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "sexta-feira, dia de Vênus, força do amor",
+  "lua": "Crescente",
+  "lua_desc": "aumentar o carinho entre vocês",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor do meu namorado para estar sempre junto de mim.\n\nEu atraio o carinho e a atenção dele, tornando nosso laço mais forte.\n\nEu decreto que nossa relação é cheia de carinho e cumplicidade.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Usa perfume que ele gosta, ativa a memória afetiva.",
+    "Prepare um jantarzinho especial, comida une corações.",
+    "Lembre ele dos bons momentos juntos com fotos ou músicas."
+  ],
+  "frase_final": "Amor perto e grudado, é isso que a gente quer, né?",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Lidiana, essa simpatia vai firmar o amor 🕯️ Pra garantir ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu coração antes da simpatia. Vai? 💜",
+  "nome": "lidiana vieira sousa",
+  "primeiroNome": "Lidiana"
+}
