@@ -1,0 +1,50 @@
+{
+  "previa": "Lidiana, tá sentindo que tudo tá dando errado? Vamos trazer a prosperidade pra sua vida com uma simpatia poderosa. Prepara os materiais simples e segue o passo a passo que vai fazer a diferença!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Lidiana. Eu sei que você tá passando por um momento difícil, sentindo que as coisas não tão indo bem. Mas, amiga, calma que a gente vai virar esse jogo. Vamos buscar a prosperidade que você merece, viu?",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta amarela",
+      "descricao": "Para reforçar a intenção"
+    },
+    {
+      "nome": "Punhado de sal grosso",
+      "descricao": "Para purificar"
+    }
+  ],
+  "preparo": [
+    "Encontre um cantinho tranquilo na sua casa, sem barulho e com pouca luz.",
+    "Acenda a vela amarela e diga: 'A prosperidade ilumina meu caminho'.",
+    "Escreva no papel dourado: 'Eu atraio prosperidade e sucesso para minha vida'.",
+    "Coloque o punhado de sal grosso ao lado da vela para limpar o caminho.",
+    "Leia em voz alta a declaração com fé e firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta-feira",
+  "dia_desc": "dia de Júpiter, ideal para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "quando tudo cresce e se expande",
+  "horario": "Manhã",
+  "horario_desc": "bem cedinho, para começar o dia vibrando prosperidade",
+  "declaracao": "Eu atraio prosperidade para minha vida.\n\nTudo que eu fizer será bem-sucedido e próspero.\n\nRecebo abundância em todas as áreas da minha vida.\n\nDeixo para trás a energia de escassez e erro.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que usar sua carteira, mentalize prosperidade entrando na sua vida.",
+    "Evite discussões sobre dinheiro nesse período, mantenha pensamentos positivos.",
+    "Ao acordar, agradeça por tudo que tem e pelo que ainda vai conquistar."
+  ],
+  "frase_final": "Deixe a prosperidade guiar seu caminho, Lidiana.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Lidiana, essa simpatia vai abrir os caminhos pra prosperidade. Pra reforçar, te indico um Banho Energético por só R$ 9,98 que prepara seu campo antes da simpatia. Que tal?",
+  "nome": "lidiana vieira sousa",
+  "primeiroNome": "Lidiana"
+}
