@@ -1,0 +1,54 @@
+{
+  "previa": "Luziane, sei que tá complicado com o Júnior de Oliveira, mas vamos atrair o amor de volta e desfazer essa fofoca toda. Bora fazer uma simpatia poderosa?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Luziane! Sei que tá pesado com o Júnior de Oliveira por causa das fofocas. Vamos trazer ele de volta, atraindo o amor verdadeiro? Com essa simpatia, a gente vai deixar tudo isso pra trás.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vermelha, para atrair amor"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Cor-de-rosa, para escrever o nome de vocês"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Vermelha, para reforçar o amor"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para intensificar o desejo"
+    },
+    {
+      "nome": "Objeto pessoal",
+      "descricao": "Algo que te lembre do Júnior"
+    }
+  ],
+  "preparo": [
+    "Encontre um cantinho silencioso e apague as luzes.",
+    "Acenda a vela vermelha e diga: 'Chamo o amor de volta'.",
+    "Escreva no papel rosa seu nome e o nome do Júnior.",
+    "Coloque o papel e as pétalas de rosa perto da vela.",
+    "Segure o objeto que lembra o Júnior e leia a declaração.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, propício para o amor",
+  "lua": "Crescente",
+  "lua_desc": "para atrair o amor de volta",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor do Júnior de Oliveira de volta pra mim.\n\nAs fofocas e os obstáculos não têm poder sobre nós.\n\nO amor verdadeiro entre nós dois floresce cada vez mais.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias.",
+  "dicas": [
+    "Evite fofocas e mantenha seus pensamentos positivos.",
+    "Tenta encontrar o Júnior em momentos tranquilos.",
+    "Use o perfume que ele gosta quando for encontrá-lo."
+  ],
+  "frase_final": "Traga o amor de volta, desfazendo as fofocas.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Luziane, essa simpatia vai atrair o Júnior de volta 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Luziane Seixas dos Santos",
+  "primeiroNome": "Luziane"
+}
