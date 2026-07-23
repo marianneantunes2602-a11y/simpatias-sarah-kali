@@ -1,0 +1,54 @@
+{
+  "previa": "Tá difícil vender os artesanatos da sua mãe Maria e você tá querendo um caminho novo fora da educação. Vamos abrir essas portas pra prosperidade juntas! 🌟",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Elaine! Sei que você tá ajudando sua mãe Maria com os artesanatos e também buscando um novo rumo na vida. Vamos fazer essa simpatia pra abrir caminhos e atrair a prosperidade que você e sua mãe merecem.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Compre no mercado"
+    },
+    {
+      "nome": "Papel amarelo",
+      "descricao": "Papel sulfite"
+    },
+    {
+      "nome": "Caneta dourada",
+      "descricao": "Qualquer papelaria tem"
+    },
+    {
+      "nome": "Pétalas de rosa amarela",
+      "descricao": "Uma rosa basta"
+    },
+    {
+      "nome": "Moeda",
+      "descricao": "Qualquer moeda que você tenha"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar calmo, onde ninguém vai te interromper.",
+    "Acende a vela amarela e pensa na prosperidade que deseja.",
+    "Escreve no papel amarelo: 'Eu e Maria atraímos clientes e prosperidade'.",
+    "Coloca a moeda sobre o papel e espalha as pétalas em volta.",
+    "Fala a declaração em voz alta com firmeza.",
+    "Carrega o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "Júpiter, prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "Para atrair coisas novas",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia tá clareando e renovando",
+  "declaracao": "Eu chamo a prosperidade e a fartura para minha vida e para os artesanatos de Maria.\n\nNosso caminho está aberto e clientes fiéis chegam até nós.\n\nEu encontro uma nova direção profissional que me traz alegria e sucesso.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Faz a simpatia com fé e visualiza os clientes chegando.",
+    "Marque um dia na semana pra divulgar os produtos da sua mãe.",
+    "Veja cursos rápidos que possam te interessar em outras áreas."
+  ],
+  "frase_final": "A prosperidade está a caminho. Abra-se para recebê-la!",
+  "upsell_produto": "Mapa Anual",
+  "upsell_mensagem": "Elaine, essa simpatia vai ajudar nas vendas e no seu caminho 🌟 Quer assegurar ainda mais a prosperidade? O Mapa Anual pode te orientar por só R$ 9,98. Quer tentar?",
+  "nome": "Elaine Da Guia Miranda",
+  "primeiroNome": "Elaine"
+}
