@@ -1,0 +1,54 @@
+{
+  "previa": "Você anda se sentindo travada, sem energia e sem alegria, né Talyta? Vamos cuidar disso! Confira essa simpatia poderosa pra abrir seus caminhos e trazer de volta a vitalidade que falta na sua vida.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Talyta, minha flor, entendo bem essa falta de energia e alegria que te consome. Parece que os caminhos estão fechados, mas vamos dar um jeito nisso agora mesmo! Confia em mim e segue essa simpatia poderosa.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Vela amarela ou dourada, para abrir caminhos"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel amarelo, para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta azul, para anotar seus pensamentos"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Um punhado, para limpar energias negativas"
+    },
+    {
+      "nome": "Alecrim",
+      "descricao": "Um ramo, ajuda na renovação de energias"
+    }
+  ],
+  "preparo": [
+    "Encontra um cantinho tranquilo, apaga as luzes e busca silêncio.",
+    "Acende a vela amarela, pensando nos caminhos se abrindo pra você.",
+    "No papel amarelo, escreve ‘Meus caminhos estão abertos, minha energia se renova’.",
+    "Coloca o papel embaixo da vela e espalha o sal grosso ao redor.",
+    "Segura o ramo de alecrim e faz a declaração em voz alta.",
+    "Guarda o papel na carteira até a próxima lua nova."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, traz crescimento e prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "bom momento para atrair coisas novas",
+  "horario": "Manhã",
+  "horario_desc": "no começo do dia, para renovar as energias",
+  "declaracao": "Eu abro meus caminhos com a força desta vela.\n\nA energia retorna para mim, trazendo alegria e vitalidade.\n\nEu decreto que minha vida flui livremente e sem bloqueios.\n\nMeus pensamentos, meu corpo e minha alma se renovam agora.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Talyta, sempre que sentir o peso, respira fundo e mentaliza a luz da vela.",
+    "Bota uma música animada e dança um pouco, isso ajuda a elevar a energia.",
+    "Evita ambientes muito carregados, eles podem sugar ainda mais sua energia."
+  ],
+  "frase_final": "Abra seus caminhos e deixe a energia boa entrar.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Talyta, essa simpatia é poderosa 🕯️ Que tal um Banho Energético por só R$ 9,98 pra te dar aquele gás extra? Vai ser ótimo pra renovar suas energias! 🌿",
+  "nome": "Talyta Pontes Monteiro",
+  "primeiroNome": "Talyta"
+}
