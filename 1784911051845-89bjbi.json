@@ -1,0 +1,54 @@
+{
+  "previa": "Fabricia, tá complicado aí no trabalho, né? Vamos dar um jeito nisso com uma simpatia poderosa pra atrair bons ventos e melhorar o ambiente. Vem comigo que vou te ensinar um ritual simples e eficaz pra mudar essa energia toda e te trazer harmonia e prosperidade.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Oi, Fabricia! Entendo como a situação no trabalho tá te afetando. A Rafaela, Jéssica e Maria tão pegando no teu pé, né? Vamos usar essa simpatia pra limpar essa energia ruim e atrair clientes pras tuas vendas. Fica firme que a gente vai dar um jeito nisso.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Pra atrair prosperidade e boas energias"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Pra escrever suas intenções"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Pra firmar suas palavras"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Pra limpar as energias negativas"
+    },
+    {
+      "nome": "Pétalas de rosa branca",
+      "descricao": "Pra trazer paz ao ambiente"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar calmo e tranquilo, sem distrações",
+    "Acenda a vela amarela e visualize a luz trazendo prosperidade",
+    "No papel branco, escreva: 'Eu, Fabricia, atraio harmonia e clientes fiéis'",
+    "Coloque o papel debaixo da vela e espalhe o sal grosso ao redor",
+    "Segure as pétalas de rosa branca e diga a declaração em voz alta",
+    "Guarde o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, propício para prosperidade",
+  "lua": "Crescente",
+  "lua_desc": "para atrair coisas boas",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia está começando, cheio de possibilidades",
+  "declaracao": "Eu, Fabricia, decreto que todas as energias ruins se afastam de mim.\n\nEu atraio clientes que valorizam meu trabalho e me respeitam.\n\nRafaela, Jéssica e Maria, que a paz e respeito reinem entre nós.\n\nA luz da vela ilumina meu caminho de prosperidade.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarde o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Tenta evitar discussões diretas com Rafaela, Jéssica e Maria.",
+    "Foca na qualidade dos teus produtos pra atrair mais clientes.",
+    "Tira um tempo pra relaxar e cuidar da tua saúde mental."
+  ],
+  "frase_final": "Com essa simpatia, a prosperidade logo chega na sua vida.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Fabricia, essa simpatia vai ajudar demais 🌟 Pra reforçar ainda mais, recomendo um Banho Energético por só R$ 9,98 que prepara teu espírito e renova as energias. Vamos fazer isso juntos?",
+  "nome": "Fabricia cavalcante Pereira",
+  "primeiroNome": "Fabricia"
+}
