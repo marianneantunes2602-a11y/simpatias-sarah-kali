@@ -1,0 +1,50 @@
+{
+  "previa": "Oi Eleonora, tá querendo atrair seu ex de volta? Eu vou te ajudar com uma simpatia poderosa pra trazer o Sérgio de volta pra sua vida e reacender esse amor. Confere aí!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Eleonora, eu sei que o coração tá apertado aí, querendo o Sérgio de volta. Seu sentimento é forte e sincero, e você tá decidida a não repetir os erros do passado. Vamos trazer ele de volta na sua vida com essa simpatia poderosa. Confia em mim, fia.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Para atrair o amor de volta"
+    },
+    {
+      "nome": "Papel branco",
+      "descricao": "Para escrever a declaração"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para firmar o pedido"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para trazer o romance de volta"
+    }
+  ],
+  "preparo": [
+    "Procura um cantinho tranquilo, onde ninguém vai te atrapalhar.",
+    "Acende a vela vermelha e coloca do lado esquerdo da sala.",
+    "No papel branco, escreve o nome do Sérgio e o seu nome.",
+    "Coloca as pétalas de rosa em volta da vela, formando um círculo.",
+    "Lê a declaração em voz alta, com todo seu coração.",
+    "Carrega o papel na carteira até a próxima sexta."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, o amor reina",
+  "lua": "Crescente",
+  "lua_desc": "perfeita pra atrair e renovar laços",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o Sérgio de volta para mim.\n\nNo calor da nossa história, eu atraio o amor perdido.\n\nEu decreto que os erros do passado não nos definem mais.\n\nSérgio, eu te chamo pra nossa reconciliação.\n\nNós somos fortes juntos. Assim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Quando conversar com Sérgio, seja sincera sobre seus sentimentos.",
+    "Demonstre com ações o quanto você mudou e está disposta a reconquistar a confiança dele.",
+    "Mande uma mensagem carinhosa pra ele, mostrando seu interesse em recomeçar."
+  ],
+  "frase_final": "O amor pode renascer mais forte e mais bonito.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Eleonora, essa simpatia é poderosa 💞 Pra conhecer ainda mais os caminhos do coração, te indico um Mapa do Amor por só R$ 9,98 que vai ajudar a entender melhor essa relação. Vai?",
+  "nome": "Eleonora Rodrigues Oliveira da Silva",
+  "primeiroNome": "Eleonora"
+}
