@@ -1,0 +1,50 @@
+{
+  "previa": "Isabela, se você e seu irmão Pedro estão afastados, essa simpatia pode ajudar a reaproximar vocês com amor e compreensão.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Reconciliação",
+  "saudacao": "Isabela, eu sei que a perda da sua mãe foi um momento muito duro e que, desde então, você e o Pedro têm se afastado. Esse troço é comum, mas não precisa ser definitivo. Vamos trabalhar juntos para trazer a irmandade de volta.",
+  "materiais": [
+    {
+      "nome": "Vela vermelha",
+      "descricao": "Para reacender o amor fraternal"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Representa o carinho e ternura"
+    },
+    {
+      "nome": "Caneta azul",
+      "descricao": "Para escrever com verdade"
+    },
+    {
+      "nome": "Pétalas de rosa branca",
+      "descricao": "Simboliza a paz entre vocês"
+    }
+  ],
+  "preparo": [
+    "Encontra um cantinho tranquilo em casa e deixa o ambiente silencioso.",
+    "Acende a vela vermelha, focando no laço com Pedro.",
+    "Escreve no papel rosa: \"Eu e Pedro estamos juntos novamente com amor\".",
+    "Coloca as pétalas de rosa ao redor da vela, trazendo paz.",
+    "Em voz alta, lê a declaração com fé e firmeza.",
+    "Carrega o papel na carteira até a próxima sexta."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "regida por Vênus, ideal para o amor fraternal",
+  "lua": "Crescente",
+  "lua_desc": "para crescer a ligação de vocês",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo o amor fraternal entre mim e o Pedro.\n\nEu declaro que nosso laço se renova, com carinho e compreensão.\n\nEu trago para nossas vidas o entendimento e a paz.\n\nNossa irmandade se fortalece, como era e sempre deve ser.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima sexta",
+  "dicas": [
+    "Relembra momentos bons que passaram juntos, traz essa energia.",
+    "Tenta iniciar uma conversa sincera com o Pedro, mesmo que casual.",
+    "Quando se sentir pronta, compartilhe uma lembrança da sua mãe com ele."
+  ],
+  "frase_final": "O amor entre irmãos é forte e pode vencer barreiras.",
+  "upsell_produto": "Mapa do Amor",
+  "upsell_mensagem": "Isabela, essa simpatia vai ajudar a reaproximar vocês. Pra dar uma força a mais, que tal um Mapa do Amor por só R$ 9,98? Ele pode trazer novas percepções sobre os laços familiares. Vai? 🌺",
+  "nome": "Isabela Moreira Teixeira",
+  "primeiroNome": "Isabela"
+}
