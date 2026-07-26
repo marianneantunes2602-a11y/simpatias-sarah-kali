@@ -1,0 +1,54 @@
+{
+  "previa": "Janaina, se a maré tá puxada, vem cá que eu tenho uma simpatia pra te ajudar a abrir os caminhos da prosperidade e trazer mais sorte financeira. Vamo virar esse jogo?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Minha flor, eu sei que as coisas não estão fáceis. Tantas dívidas, negócios do seu companheiro não dando certo, e até o carro complicando. Mas a gente vai dar um jeito nisso, tá? Vamos fazer essa simpatia de prosperidade e abrir os caminhos pra vocês.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Para atrair prosperidade e sorte"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Para escrever seus desejos de prosperidade"
+    },
+    {
+      "nome": "Caneta verde",
+      "descricao": "Cor da esperança e crescimento"
+    },
+    {
+      "nome": "Pétalas de rosa amarela",
+      "descricao": "Para energia positiva"
+    },
+    {
+      "nome": "Uma moeda",
+      "descricao": "Símbolo de riqueza"
+    }
+  ],
+  "preparo": [
+    "Escolhe um cantinho da casa onde você se sinta tranquila, sem barulho. Coloca as pétalas em um prato ao lado.",
+    "Acende a vela amarela com fé, pensando na prosperidade chegando.",
+    "No papel dourado, escreve: 'Prosperidade e sorte para mim e para o meu companheiro'.",
+    "Coloca a moeda sobre o papel e o papel sobre as pétalas.",
+    "Lê a declaração em voz alta, sentindo cada palavra.",
+    "Carrega o papel na carteira até a próxima lua nova"
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, que traz expansão e sorte",
+  "lua": "Crescente",
+  "lua_desc": "pra fazer crescer suas oportunidades",
+  "horario": "Manhã",
+  "horario_desc": "quando o dia tá começando e a energia é nova",
+  "declaracao": "Eu decreto que a prosperidade entra na minha vida e na do meu companheiro.\n\nOs caminhos se abrem e a sorte nos acompanha.\n\nAs dívidas se dissolvem e as oportunidades surgem com abundância.\n\nA cada dia, nosso sustento cresce e se fortalece.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Quando o carro estragar, tenta respirar fundo antes de agir, evita piorar a ansiedade.",
+    "Conversa com teu companheiro sobre pequenos passos pra melhorar as finanças.",
+    "Olha sempre o lado positivo das pequenas coisas, isso atrai coisa boa."
+  ],
+  "frase_final": "A prosperidade vai abrir as portas pra você, Janaina.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Janaina, essa simpatia vai abrir seus caminhos 🌟 Pra fortalecer ainda mais, te ofereço um Banho Energético por só R$ 9,98 que vai preparar teu campo pra receber essa prosperidade. Vamos nessa?",
+  "nome": "Janaina Rodrigues da Silva",
+  "primeiroNome": "Janaina"
+}
