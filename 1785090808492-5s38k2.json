@@ -1,0 +1,50 @@
+{
+  "previa": "Tá querendo atrair seu ex de volta, Eleonora? Tenho uma simpatia poderosa pra você. Com uma vela rosa e umas palavrinhas mágicas, você vai acender essa chama de novo. Vamos fazer isso juntas?",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Oi, Eleonora! Sei que você tá querendo atrair seu ex de volta. Olha só, o amor é uma força poderosa, e com um empurrãozinho certo, você pode reacender essa chama. Vamos lá, eu tô aqui pra te ajudar!",
+  "materiais": [
+    {
+      "nome": "Vela rosa",
+      "descricao": "Representa amor e atração"
+    },
+    {
+      "nome": "Papel rosa",
+      "descricao": "Para escrever seus desejos"
+    },
+    {
+      "nome": "Caneta vermelha",
+      "descricao": "Para dar vida ao que escrever"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para intensificar o amor"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo e sereno, sem interrupções",
+    "Acende a vela rosa e imagina o amor voltando",
+    "Escreve no papel o nome do seu ex e o que deseja",
+    "Coloque o papel debaixo da vela e circule com pétalas de rosa",
+    "Lê a declaração em voz alta, com fé e firmeza",
+    "Guarda o papel embaixo do colchão por 7 dias"
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia regido por Vênus, perfeito para o amor",
+  "lua": "Crescente",
+  "lua_desc": "a fase de atrair e crescer",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu chamo a força do amor de volta à minha vida\n\nEu atraio o coração do meu ex, que retorna para mim\n\nNossa conexão se renova com força e paixão\n\nEu sinto o calor do amor crescer entre nós\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Antes de começar, toma um banho pra relaxar e limpar a mente",
+    "Pensa nas qualidades boas dele enquanto faz a simpatia",
+    "Mantenha uma atitude positiva e confiante durante todo o ritual"
+  ],
+  "frase_final": "O amor é forte, Eleonora. Vamos reacender essa chama.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Eleonora, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Eleonora Rodrigues Oliveira da Silva",
+  "primeiroNome": "Eleonora"
+}
