@@ -1,0 +1,54 @@
+{
+  "previa": "Patrícia, eu sei que esses prejuízos e roubos foram um baque. Vamos trabalhar numa simpatia poderosa pra trazer proteção e prosperidade de volta à tua casa.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Proteção",
+  "saudacao": "Patrícia, minha flor, eu sei que tá pesado. Roubaram seu padrão de luz e fiação, e isso dá um medo terrível. Vamos cuidar disso já, trazendo proteção e prosperidade pra sua casa.",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Branca para proteção"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Amarelo para prosperidade"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Azul para mudanças positivas"
+    },
+    {
+      "nome": "Sal grosso",
+      "descricao": "Purificação e proteção"
+    },
+    {
+      "nome": "Pétalas de rosa amarela",
+      "descricao": "Atrair prosperidade"
+    }
+  ],
+  "preparo": [
+    "Encontra um lugar tranquilo em casa, onde não vá ser interrompida.",
+    "Acende a vela branca e mentaliza proteção envolvendo sua casa.",
+    "Escreve no papel o que deseja proteger e como quer prosperar.",
+    "Coloca as pétalas de rosa e o sal sobre o papel, segurando firme.",
+    "Lê a declaração em voz alta, com força e coragem.",
+    "Enterra o papel num vaso de planta da casa, para selar proteção."
+  ],
+  "dia": "Segunda",
+  "dia_desc": "Dia da Lua, ligado às emoções e proteção",
+  "lua": "Crescente",
+  "lua_desc": "Momento de atrair proteção e abrir caminhos",
+  "horario": "Noite",
+  "horario_desc": "Depois das 20h, quando a casa estiver em silêncio",
+  "declaracao": "Eu chamo a proteção e a prosperidade para minha casa e minha vida.\n\nDecreto que nenhum mal vai ter força aqui.\n\nMinha casa é segura, e a prosperidade chega agora.\n\nQue o que foi perdido volte em dobro, mais forte e melhor.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Enterra o papel num vaso de planta da casa",
+  "dicas": [
+    "Deixa uma tigela com sal grosso na entrada de casa para filtrar energias.",
+    "Reforce as trancas e não comente sobre seus bens com estranhos.",
+    "Coloque uma planta de proteção, como espada-de-são-jorge, perto da porta."
+  ],
+  "frase_final": "Proteção e prosperidade caminham juntas, fia.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Patrícia, essa simpatia é poderosa 🕯️ Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Patrícia Valadares Araújo",
+  "primeiroNome": "Patrícia"
+}
