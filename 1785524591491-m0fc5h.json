@@ -1,0 +1,50 @@
+{
+  "previa": "Elione, tá difícil depois desse casamento de fachada, né? Vamos abrir seus caminhos e atrair amor verdadeiro. Tem uma simpatia certeira pra isso, vem ver!",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Amor",
+  "saudacao": "Elione, minha flor, eu sei que sair de um casamento de fachada não é fácil. Mas agora é hora de abrir os caminhos e trazer um amor sincero, como o Dedé. Vamos fazer isso juntas!",
+  "materiais": [
+    {
+      "nome": "Vela",
+      "descricao": "Rosa, para atrair amor"
+    },
+    {
+      "nome": "Papel",
+      "descricao": "Papel branco"
+    },
+    {
+      "nome": "Caneta",
+      "descricao": "Caneta vermelha"
+    },
+    {
+      "nome": "Pétalas de rosa",
+      "descricao": "Para o amor e a paixão"
+    }
+  ],
+  "preparo": [
+    "Encontre um lugar tranquilo e silencioso para fazer a simpatia.",
+    "Acenda a vela rosa e pense no amor que deseja atrair.",
+    "Escreva no papel branco: 'Eu, Elione, abro meu coração para o amor verdadeiro com Dedé.'",
+    "Coloque as pétalas de rosa ao redor da vela.",
+    "Leia a declaração em voz alta, sentindo a força das palavras.",
+    "Guarda o papel embaixo do colchão por 7 dias."
+  ],
+  "dia": "Sexta",
+  "dia_desc": "dia de Vênus, ideal para o amor",
+  "lua": "Crescente",
+  "lua_desc": "para atrair e crescer o amor",
+  "horario": "Noite",
+  "horario_desc": "depois das 20h, quando o silêncio chega",
+  "declaracao": "Eu, Elione, abro meu coração para o amor verdadeiro.\n\nChamo Dedé para me conhecer de verdade e sentir esse amor.\n\nMinha vida amorosa se transforma agora.\n\nEu atraio amor sincero e duradouro.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Guarda o papel embaixo do colchão por 7 dias",
+  "dicas": [
+    "Elione, pensa no que te faz feliz no amor enquanto faz a simpatia.",
+    "Tenta se encontrar com o Dedé num local onde possam conversar sem pressa.",
+    "Cuida de si mesma, esteja sempre com sua autoestima lá em cima!"
+  ],
+  "frase_final": "Abra seu coração e deixe o amor verdadeiro entrar, Elione.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Elione, essa simpatia é poderosa! Pra firmar ainda mais, te indico um Banho Energético por só R$ 9,98 que prepara teu campo antes da simpatia. Vai? 💜",
+  "nome": "Elione costa do Nascimento",
+  "primeiroNome": "Elione"
+}
