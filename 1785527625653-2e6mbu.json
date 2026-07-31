@@ -1,0 +1,54 @@
+{
+  "previa": "Tá difícil, né, Jelita? Vamos chamar a prosperidade de volta pra tua vida com essa simpatia poderosa. Segue direitinho o passo a passo e se prepara para ver a mudança acontecer.",
+  "titulo": "Simpatia de",
+  "titulo_destaque": "Prosperidade",
+  "saudacao": "Jelita, minha flor, sei que a situação tá apertada e o dinheiro parece que não quer chegar. Mas, olha, vamos dar um jeito nisso, tá? Vou te ajudar a abrir os caminhos da prosperidade com uma simpatia simples e poderosa.",
+  "materiais": [
+    {
+      "nome": "Vela amarela",
+      "descricao": "Símbolo de prosperidade e abertura de caminhos"
+    },
+    {
+      "nome": "Papel dourado",
+      "descricao": "Para escrever sua intenção de prosperidade"
+    },
+    {
+      "nome": "Caneta preta",
+      "descricao": "Para deixar claro suas palavras no papel"
+    },
+    {
+      "nome": "3 folhas de louro",
+      "descricao": "Atraem fortuna e sucesso"
+    },
+    {
+      "nome": "Um pedacinho de tecido amarelo",
+      "descricao": "Algo para carregar a energia do ritual"
+    }
+  ],
+  "preparo": [
+    "Escolhe um lugar tranquilo da casa e deixa o ambiente em silêncio.",
+    "Acende a vela amarela e pensa na prosperidade que você quer atrair.",
+    "Escreve no papel dourado: 'Eu, Jelita, atraio prosperidade e abundância financeira'.",
+    "Coloca as folhas de louro junto com o papel e envolve tudo no tecido amarelo.",
+    "Com o embrulho nas mãos, repete em voz alta a declaração de prosperidade.",
+    "Guarda o embrulho num lugar seguro e deixa a vela queimar até o final."
+  ],
+  "dia": "Quinta",
+  "dia_desc": "dia de Júpiter, ideal para prosperidade e crescimento",
+  "lua": "Crescente",
+  "lua_desc": "lua das oportunidades e do crescimento",
+  "horario": "Manhã",
+  "horario_desc": "cedinho, quando o dia traz novas energias",
+  "declaracao": "Eu, Jelita, decreto que a prosperidade entra na minha vida agora.\n\nEu atraio todas as oportunidades de crescimento e sucesso financeiro.\n\nAs portas do dinheiro e da abundância estão abertas para mim.\n\nSinto a riqueza fluindo para mim de todas as direções.\n\nAssim eu falo. Assim se cumpre.",
+  "encerramento": "Carrega o papel na carteira até a próxima lua nova",
+  "dicas": [
+    "Sempre que olhar para o embrulho, lembra do que você escreveu.",
+    "Evita falar sobre as dificuldades financeiras durante esse período.",
+    "Acredita no processo e mantém o pensamento positivo."
+  ],
+  "frase_final": "Prosperidade é a abertura que você precisava, Jelita.",
+  "upsell_produto": "Banho Energético",
+  "upsell_mensagem": "Jelita, essa simpatia vai te ajudar a chamar a prosperidade. Pra fortalecer ainda mais, indico o Banho Energético por só R$ 9,98. Ele vai preparar o teu campo antes da simpatia. Quer experimentar? 🌟",
+  "nome": "Jelita Ferreira Santos",
+  "primeiroNome": "Jelita"
+}
